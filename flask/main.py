@@ -1,8 +1,22 @@
 from flask import Flask, redirect, request, jsonify
 import requests
+import pymysql
 
-client_id = "qXLsIGgj4ImfzDQsYPMV"
-client_secret = "gW1KJpjSMX"
+# client_id = ""
+# client_secret = ""
+
+db = pymysql.connect(host="15.165.161.62", user='seulbee',
+                     password='dltmfql', db='sb_flask', charset='utf-8')
+cursor = db.cursor()
+sql = "select * from accounts"
+
+cursor.execute(sql)
+
+cursor.fetchall()
+
+db.commit()
+db.close()
+
 
 app = Flask(__name__)
 
