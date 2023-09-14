@@ -1,0 +1,4557 @@
+{
+	"bigfile": {
+		"EsmCode": "N1155",
+		"Idc": "춘천",
+		"ServiceName": "메일"
+	},
+	"ocr_image": {
+		"EsmCode": "A012558",
+		"Idc": "춘천",
+		"ServiceName": "papago"
+	},
+	"ndotcubrid": {
+		"EsmCode": "04904",
+		"Idc": "춘천",
+		"ServiceName": "ndot"
+	},
+	"ndotmysql": {
+		"EsmCode": "04904",
+		"Idc": "춘천",
+		"ServiceName": "ndot"
+	},
+	"ndotmssql": {
+		"EsmCode": "04904",
+		"Idc": "춘천",
+		"ServiceName": "ndot"
+	},
+	"mex": {
+		"EsmCode": "S0348",
+		"Idc": "춘천",
+		"ServiceName": "mex"
+	},
+	"prov_real": {
+		"EsmCode": "S0514",
+		"Idc": "춘천",
+		"ServiceName": "prov"
+	},
+	"cuve": {
+		"EsmCode": "A016303",
+		"Idc": "춘천",
+		"ServiceName": "cuve"
+	},
+	"whale-icon": {
+		"EsmCode": "A013246",
+		"Idc": "춘천",
+		"ServiceName": "whale"
+	},
+	"aliveness-check": {
+		"EsmCode": "A014578",
+		"Idc": "춘천",
+		"ServiceName": "nubes"
+	},
+	"pubtrans": {
+		"EsmCode": "00080",
+		"Idc": "춘천",
+		"ServiceName": "지도"
+	},
+	"navernoti": {
+		"EsmCode": "A015278",
+		"Idc": "춘천",
+		"ServiceName": "navernoti"
+	},
+	"maps_world": {
+		"EsmCode": "00080",
+		"Idc": "춘천",
+		"ServiceName": "지도"
+	},
+	"nubes-fuse-chuncheon": {
+		"EsmCode": "A014578",
+		"Idc": "춘천",
+		"ServiceName": "nubes"
+	},
+	"selective": {
+		"EsmCode": "A014717",
+		"Idc": "춘천",
+		"ServiceName": "쇼핑라이브"
+	},
+	"airs-common-storage": {
+		"EsmCode": "A016061",
+		"Idc": "춘천",
+		"ServiceName": "airs"
+	},
+	"ctest": {
+		"EsmCode": "A014578",
+		"Idc": "춘천",
+		"ServiceName": "nubes"
+	},
+	"ncaptcha_archive": {
+		"EsmCode": "00111",
+		"Idc": "춘천",
+		"ServiceName": "ncaptcha_archive"
+	},
+	"NMSS-Stage": {
+		"EsmCode": "A014379",
+		"Idc": "춘천",
+		"ServiceName": "lip"
+	},
+	"qr_nubes": {
+		"EsmCode": "A016930",
+		"Idc": "춘천",
+		"ServiceName": "qr_nubes"
+	},
+	"CS_CLOUD": {
+		"EsmCode": "A017898",
+		"Idc": "춘천",
+		"ServiceName": "CS_CLOUD"
+	},
+	"vertical": {
+		"EsmCode": "A011980",
+		"Idc": "춘천",
+		"ServiceName": "vertical"
+	},
+	"connectone-storage": {
+		"EsmCode": "A009676",
+		"Idc": "춘천",
+		"ServiceName": "connectone-storage"
+	},
+	"query-analyzer": {
+		"EsmCode": "A015265",
+		"Idc": "춘천",
+		"ServiceName": "클로바플랫폼"
+	},
+	"oldmaptiles": {
+		"EsmCode": "00080",
+		"Idc": "춘천",
+		"ServiceName": "지도"
+	},
+	"logdata": {
+		"EsmCode": "A012961",
+		"Idc": "춘천",
+		"ServiceName": "logdata"
+	},
+	"SRTS": {
+		"EsmCode": "A014442",
+		"Idc": "춘천",
+		"ServiceName": "클로바데이터레이크"
+	},
+	"avse": {
+		"EsmCode": "A015360",
+		"Idc": "춘천",
+		"ServiceName": "클로바음성인식"
+	},
+	"ntms": {
+		"EsmCode": "A018868",
+		"Idc": "춘천",
+		"ServiceName": "ntms"
+	},
+	"jrnaver": {
+		"EsmCode": "N1480",
+		"Idc": "춘천",
+		"ServiceName": "쥬니어네이버"
+	},
+	"recruit": {
+		"EsmCode": "A025420",
+		"Idc": "춘천",
+		"ServiceName": "채용홈페이지_NAVER"
+	},
+	"audiop_copyright": {
+		"EsmCode": "A013926",
+		"Idc": "춘천",
+		"ServiceName": "오디오플랫폼"
+	},
+	"airflow": {
+		"EsmCode": "A016061",
+		"Idc": "춘천",
+		"ServiceName": "airs"
+	},
+	"audiop_fingerprint": {
+		"EsmCode": "A013926",
+		"Idc": "춘천",
+		"ServiceName": "오디오플랫폼"
+	},
+	"jrnaver_stg": {
+		"EsmCode": "N1480",
+		"Idc": "춘천",
+		"ServiceName": "쥬니어네이버"
+	},
+	"videotech-share": {
+		"EsmCode": "A018000",
+		"Idc": "춘천",
+		"ServiceName": "동영상플랫폼"
+	},
+	"audiop_fingerprint_stg": {
+		"EsmCode": "A013926",
+		"Idc": "춘천",
+		"ServiceName": "오디오플랫폼"
+	},
+	"shopping-search": {
+		"EsmCode": "00085",
+		"Idc": "춘천",
+		"ServiceName": "shopping-search"
+	},
+	"vlive": {
+		"EsmCode": "A011347",
+		"Idc": "춘천",
+		"ServiceName": "글로벌V"
+	},
+	"clova_jp": {
+		"EsmCode": "A015358",
+		"Idc": "춘천",
+		"ServiceName": "클로바DM"
+	},
+	"smartboard": {
+		"EsmCode": "A013171",
+		"Idc": "춘천",
+		"ServiceName": "smartboard"
+	},
+	"CicMsgVoice": {
+		"EsmCode": "A015265",
+		"Idc": "춘천",
+		"ServiceName": "클로바플랫폼"
+	},
+	"OcrReceiptAnalyzer": {
+		"EsmCode": "A019124",
+		"Idc": "춘천",
+		"ServiceName": "Clova AI Platform"
+	},
+	"giro_images": {
+		"EsmCode": "A013767",
+		"Idc": "춘천",
+		"ServiceName": "clova_p6"
+	},
+	"OcrReceiptAnalyzerKor": {
+		"EsmCode": "A019124",
+		"Idc": "춘천",
+		"ServiceName": "Clova AI Platform"
+	},
+	"clova-airflow": {
+		"EsmCode": "A015265",
+		"Idc": "춘천",
+		"ServiceName": "클로바플랫폼"
+	},
+	"IPCC": {
+		"EsmCode": "S0104",
+		"Idc": "춘천",
+		"ServiceName": "IPCC"
+	},
+	"sports-chuncheon": {
+		"EsmCode": "N5374",
+		"Idc": "춘천",
+		"ServiceName": "모바일웹스포츠"
+	},
+	"AIService": {
+		"EsmCode": "A019124",
+		"Idc": "춘천",
+		"ServiceName": "Clova AI Platform"
+	},
+	"entry_uploads": {
+		"EsmCode": "A012355",
+		"Idc": "춘천",
+		"ServiceName": "엔트리"
+	},
+	"socialgw": {
+		"EsmCode": "S0636",
+		"Idc": "춘천",
+		"ServiceName": "socialgw"
+	},
+	"nasa": {
+		"EsmCode": "A011372",
+		"Idc": "춘천",
+		"ServiceName": "nasa"
+	},
+	"nb-airflow": {
+		"EsmCode": "A013767",
+		"Idc": "춘천",
+		"ServiceName": "clova_p6"
+	},
+	"scrapbook-file": {
+		"EsmCode": "A013246",
+		"Idc": "춘천",
+		"ServiceName": "whale"
+	},
+	"kin_counseling": {
+		"EsmCode": "N1100",
+		"Idc": "춘천",
+		"ServiceName": "지식iN"
+	},
+	"weather_chuncheon": {
+		"EsmCode": "N1200",
+		"Idc": "춘천",
+		"ServiceName": "날씨"
+	},
+	"nubes-fuse-pyeongchon": {
+		"EsmCode": "A014578",
+		"Idc": "평촌",
+		"ServiceName": "nubes"
+	},
+	"nubes-cdl": {
+		"EsmCode": "A014442",
+		"Idc": "평촌",
+		"ServiceName": "클로바데이터레이크"
+	},
+	"wcs_resource": {
+		"EsmCode": "A020747",
+		"Idc": "평촌",
+		"ServiceName": "웹툰 WCS"
+	},
+	"one-service-static": {
+		"EsmCode": "N5144",
+		"Idc": "평촌",
+		"ServiceName": "모바일웹뉴스"
+	},
+	"sentry-data": {
+		"EsmCode": "A017099",
+		"Idc": "평촌",
+		"ServiceName": "Apollo 개발공통"
+	},
+	"prov_line_real": {
+		"EsmCode": "S0514",
+		"Idc": "평촌",
+		"ServiceName": "prov"
+	},
+	"sticker_pack": {
+		"EsmCode": "A018460",
+		"Idc": "평촌",
+		"ServiceName": "stickerly"
+	},
+	"zepeto-log": {
+		"EsmCode": "A014996",
+		"Idc": "평촌",
+		"ServiceName": "zepeto"
+	},
+	"cnts-recv": {
+		"EsmCode": "N1175",
+		"Idc": "평촌",
+		"ServiceName": "스포츠"
+	},
+	"pmon": {
+		"EsmCode": "S0632",
+		"Idc": "평촌",
+		"ServiceName": "pmon"
+	},
+	"local": {
+		"EsmCode": "A013302",
+		"Idc": "평촌",
+		"ServiceName": "플레이스"
+	},
+	"cspdata": {
+		"EsmCode": "00085",
+		"Idc": "평촌",
+		"ServiceName": "shopping-search"
+	},
+	"npot-web-naver2": {
+		"EsmCode": "A010136",
+		"Idc": "평촌",
+		"ServiceName": "npot"
+	},
+	"sports-realtime": {
+		"EsmCode": "N5374",
+		"Idc": "평촌",
+		"ServiceName": "모바일웹스포츠"
+	},
+	"nelo-naver": {
+		"EsmCode": "S0122",
+		"Idc": "평촌",
+		"ServiceName": "NELO"
+	},
+	"logs": {
+		"EsmCode": "A018460",
+		"Idc": "평촌",
+		"ServiceName": "stickerly"
+	},
+	"clovamusic": {
+		"EsmCode": "A015409",
+		"Idc": "평촌",
+		"ServiceName": "clovamusic"
+	},
+	"bizcloud": {
+		"EsmCode": "00083",
+		"Idc": "평촌",
+		"ServiceName": "[검색]클릭초이스"
+	},
+	"api_log": {
+		"EsmCode": "A012454",
+		"Idc": "평촌",
+		"ServiceName": "네이버인사이트"
+	},
+	"npot-ops": {
+		"EsmCode": "A010136",
+		"Idc": "평촌",
+		"ServiceName": "npot"
+	},
+	"npotnbp-ops": {
+		"EsmCode": "A010136",
+		"Idc": "평촌",
+		"ServiceName": "npot"
+	},
+	"media-one-tools": {
+		"EsmCode": "N5144",
+		"Idc": "평촌",
+		"ServiceName": "모바일웹뉴스"
+	},
+	"resource": {
+		"EsmCode": "A018460",
+		"Idc": "평촌",
+		"ServiceName": "stickerly"
+	},
+	"uploads": {
+		"EsmCode": "A018366",
+		"Idc": "평촌",
+		"ServiceName": "엔트리라인"
+	},
+	"webtoon-platform": {
+		"EsmCode": "A008774",
+		"Idc": "평촌",
+		"ServiceName": "라인웹툰"
+	},
+	"TTS": {
+		"EsmCode": "A013767",
+		"Idc": "평촌",
+		"ServiceName": "clova_p6"
+	},
+	"contents": {
+		"EsmCode": "A018460",
+		"Idc": "평촌",
+		"ServiceName": "stickerly"
+	},
+	"video-mine": {
+		"EsmCode": "S0245",
+		"Idc": "평촌",
+		"ServiceName": "동영상인프라"
+	},
+	"nubes_d2data": {
+		"EsmCode": "A010303",
+		"Idc": "평촌",
+		"ServiceName": "d2"
+	},
+	"esfarm": {
+		"EsmCode": "A018928",
+		"Idc": "평촌",
+		"ServiceName": "esfarm"
+	},
+	"sports-anyang": {
+		"EsmCode": "N5374",
+		"Idc": "평촌",
+		"ServiceName": "모바일웹스포츠"
+	},
+	"NLCOUD_CS": {
+		"EsmCode": "A014094",
+		"Idc": "평촌",
+		"ServiceName": "NLCOUD_CS"
+	},
+	"esfarm-real-test": {
+		"EsmCode": "A018928",
+		"Idc": "평촌",
+		"ServiceName": "esfarm"
+	},
+	"etcd-backup": {
+		"EsmCode": "A018928",
+		"Idc": "평촌",
+		"ServiceName": "esfarm"
+	},
+	"AIServiceCdnOrigin": {
+		"EsmCode": "A019124",
+		"Idc": "평촌",
+		"ServiceName": "Clova AI Platform"
+	},
+	"weather_pyeongchon": {
+		"EsmCode": "N1200",
+		"Idc": "평촌",
+		"ServiceName": "날씨"
+	},
+	"LiveCloud-Stg": {
+		"EsmCode": "A014379",
+		"Idc": "평촌",
+		"ServiceName": "lip"
+	},
+	"LiveCloud-Real": {
+		"EsmCode": "A014379",
+		"Idc": "평촌",
+		"ServiceName": "lip"
+	},
+	"SNOW_FILE": {
+		"EsmCode": "A011097",
+		"Idc": "평촌",
+		"ServiceName": "스노우"
+	},
+	"clova-analytics": {
+		"EsmCode": "A014406",
+		"Idc": "평촌",
+		"ServiceName": "clova도메인"
+	},
+	"SmartLamp": {
+		"EsmCode": "A016703",
+		"Idc": "춘천",
+		"ServiceName": "X-eye"
+	},
+	"ni_backup": {
+		"EsmCode": "A012454",
+		"Idc": "평촌",
+		"ServiceName": "네이버인사이트"
+	},
+	"static_resource": {
+		"EsmCode": "A014717",
+		"Idc": "평촌",
+		"ServiceName": "쇼핑라이브"
+	},
+	"dubbing": {
+		"EsmCode": "A013767",
+		"Idc": "춘천",
+		"ServiceName": "clova_p6"
+	},
+	"msml_airflow": {
+		"EsmCode": "N1155",
+		"Idc": "평촌",
+		"ServiceName": "메일"
+	},
+	"CCAI": {
+		"EsmCode": "A015265",
+		"Idc": "평촌",
+		"ServiceName": "클로바플랫폼"
+	},
+	"airs-devops-ar1-airflow-1": {
+		"EsmCode": "A016061",
+		"Idc": "평촌",
+		"ServiceName": "airs"
+	},
+	"shopping-web-static": {
+		"EsmCode": "N5351",
+		"Idc": "평촌",
+		"ServiceName": "쇼핑서비스"
+	},
+	"blog_photoin_upphoto": {
+		"EsmCode": "N1105",
+		"Idc": "평촌",
+		"ServiceName": "블로그"
+	},
+	"blog_image": {
+		"EsmCode": "N1105",
+		"Idc": "평촌",
+		"ServiceName": "블로그"
+	},
+	"blog_profile": {
+		"EsmCode": "N1105",
+		"Idc": "평촌",
+		"ServiceName": "블로그"
+	},
+	"signature": {
+		"EsmCode": "N1105",
+		"Idc": "평촌",
+		"ServiceName": "블로그"
+	},
+	"VOD_ALPHA": {
+		"EsmCode": "S0245",
+		"Idc": "춘천",
+		"ServiceName": "동영상인프라"
+	},
+	"VideoEngine": {
+		"EsmCode": "A016900",
+		"Idc": "평촌",
+		"ServiceName": "Clova AI Incubator"
+	},
+	"ba_segment_shared": {
+		"EsmCode": "N5585",
+		"Idc": "평촌",
+		"ServiceName": "band"
+	},
+	"vision-image": {
+		"EsmCode": "A015265",
+		"Idc": "춘천",
+		"ServiceName": "클로바플랫폼"
+	},
+	"AIServiceBeta": {
+		"EsmCode": "A019804",
+		"Idc": "춘천",
+		"ServiceName": "페이스사인"
+	},
+	"gfp_server": {
+		"EsmCode": "A017240",
+		"Idc": "평촌",
+		"ServiceName": "GLAD 플랫폼"
+	},
+	"whale-sync-backup": {
+		"EsmCode": "A013246",
+		"Idc": "춘천",
+		"ServiceName": "whale"
+	},
+	"kairos": {
+		"EsmCode": "N5351",
+		"Idc": "평촌",
+		"ServiceName": "쇼핑서비스"
+	},
+	"bmon": {
+		"EsmCode": "00083",
+		"Idc": "평촌",
+		"ServiceName": "[검색]클릭초이스"
+	},
+	"iq-engine": {
+		"EsmCode": "A017922",
+		"Idc": "춘천",
+		"ServiceName": "IQ-Engine"
+	},
+	"press": {
+		"EsmCode": "S0046",
+		"Idc": "춘천",
+		"ServiceName": "뉴스_어드민"
+	},
+	"CCRResult": {
+		"EsmCode": "A019124",
+		"Idc": "평촌",
+		"ServiceName": "Clova AI Platform"
+	},
+	"wit": {
+		"EsmCode": "A015979",
+		"Idc": "평촌",
+		"ServiceName": "wit"
+	},
+	"mfs2": {
+		"EsmCode": "A019124",
+		"Idc": "평촌",
+		"ServiceName": "Clova AI Platform"
+	},
+	"data-challenge-nubes": {
+		"EsmCode": "A013970",
+		"Idc": "평촌",
+		"ServiceName": "NAVER LABS공통"
+	},
+	"WMS": {
+		"EsmCode": "A012718",
+		"Idc": "평촌",
+		"ServiceName": "IT운영솔루션"
+	},
+	"global-webtoon-nubes": {
+		"EsmCode": "A008774",
+		"Idc": "평촌",
+		"ServiceName": "라인웹툰"
+	},
+	"sentry-web": {
+		"EsmCode": "A013302",
+		"Idc": "평촌",
+		"ServiceName": "플레이스"
+	},
+	"bucket-gss-logs": {
+		"EsmCode": "A021102",
+		"Idc": "춘천",
+		"ServiceName": "글로벌정산지원"
+	},
+	"bucket-gss": {
+		"EsmCode": "A021102",
+		"Idc": "춘천",
+		"ServiceName": "글로벌정산지원"
+	},
+	"whale-viewer": {
+		"EsmCode": "A013246",
+		"Idc": "춘천",
+		"ServiceName": "whale"
+	},
+	"stella-devops-ar1-airflow-1": {
+		"EsmCode": "N5004",
+		"Idc": "평촌",
+		"ServiceName": "[세부]컨텐츠검색(PC/모바일)"
+	},
+	"speech-tools": {
+		"EsmCode": "A015360",
+		"Idc": "평촌",
+		"ServiceName": "클로바 음성인식"
+	},
+	"navertalk": {
+		"EsmCode": "A011154",
+		"Idc": "평촌",
+		"ServiceName": "네이버톡톡"
+	},
+	"MapOpenApi": {
+		"EsmCode": "00080",
+		"Idc": "평촌",
+		"ServiceName": "지도"
+	},
+	"taste": {
+		"EsmCode": "A016606",
+		"Idc": "평촌",
+		"ServiceName": "코노미"
+	},
+	"flsc-real": {
+		"EsmCode": "A014379",
+		"Idc": "춘천",
+		"ServiceName": "lip"
+	},
+	"map-raster-tiles-cornbox": {
+		"EsmCode": "00080",
+		"Idc": "평촌",
+		"ServiceName": "지도"
+	},
+	"stella-devops-cr1-airflow-1": {
+		"EsmCode": "N5004",
+		"Idc": "춘천",
+		"ServiceName": "[세부]컨텐츠검색(PC/모바일)"
+	},
+	"panorama_test": {
+		"EsmCode": "00080",
+		"Idc": "춘천",
+		"ServiceName": "지도"
+	},
+	"vertical-cardad": {
+		"EsmCode": "N5577",
+		"Idc": "춘천",
+		"ServiceName": "[DA]신용카드정보검색광고"
+	},
+	"dubbing-global": {
+		"EsmCode": "A020160",
+		"Idc": "평촌",
+		"ServiceName": "클로바더빙"
+	},
+	"mi_log": {
+		"EsmCode": "A013926",
+		"Idc": "춘천",
+		"ServiceName": "오디오플랫폼"
+	},
+	"mi_log_stg": {
+		"EsmCode": "A013926",
+		"Idc": "춘천",
+		"ServiceName": "오디오플랫폼"
+	},
+	"NEST-Storage": {
+		"EsmCode": "A015360",
+		"Idc": "춘천",
+		"ServiceName": "클로바음성인식"
+	},
+	"nsml_v1": {
+		"EsmCode": "A014429",
+		"Idc": "춘천",
+		"ServiceName": "Clova ML"
+	},
+	"aftf-packages": {
+		"EsmCode": "A020940",
+		"Idc": "평촌",
+		"ServiceName": "Spam filtering"
+	},
+	"aftf-models": {
+		"EsmCode": "A020940",
+		"Idc": "평촌",
+		"ServiceName": "Spam filtering"
+	},
+	"mmdata-v1": {
+		"EsmCode": "00080",
+		"Idc": "춘천",
+		"ServiceName": "지도"
+	},
+	"airflow-logs": {
+		"EsmCode": "A020940",
+		"Idc": "평촌",
+		"ServiceName": "Spam filtering"
+	},
+	"weather_data": {
+		"EsmCode": "N1200",
+		"Idc": "춘천",
+		"ServiceName": "날씨"
+	},
+	"ac_kr_upload": {
+		"EsmCode": "A013926",
+		"Idc": "평촌",
+		"ServiceName": "오디오플랫폼"
+	},
+	"ac_kr_source": {
+		"EsmCode": "A013926",
+		"Idc": "평촌",
+		"ServiceName": "오디오플랫폼"
+	},
+	"ac_kr_audio": {
+		"EsmCode": "A013926",
+		"Idc": "평촌",
+		"ServiceName": "오디오플랫폼"
+	},
+	"ac_kr_processor": {
+		"EsmCode": "A013926",
+		"Idc": "평촌",
+		"ServiceName": "오디오플랫폼"
+	},
+	"venti": {
+		"EsmCode": "A021160",
+		"Idc": "평촌",
+		"ServiceName": "venti"
+	},
+	"pdp": {
+		"EsmCode": "A021260",
+		"Idc": "평촌",
+		"ServiceName": "PDP"
+	},
+	"blog-web-pc-static": {
+		"EsmCode": "N1105",
+		"Idc": "춘천",
+		"ServiceName": "블로그"
+	},
+	"cafe": {
+		"EsmCode": "N1115",
+		"Idc": "평촌",
+		"ServiceName": "카페"
+	},
+	"blog-static": {
+		"EsmCode": "N1105",
+		"Idc": "평촌",
+		"ServiceName": "블로그"
+	},
+	"papago-pro": {
+		"EsmCode": "A012558",
+		"Idc": "평촌",
+		"ServiceName": "papago"
+	},
+	"real-frontier": {
+		"EsmCode": "A014379",
+		"Idc": "춘천",
+		"ServiceName": "lip"
+	},
+	"stg-frontier": {
+		"EsmCode": "A014379",
+		"Idc": "춘천",
+		"ServiceName": "lip"
+	},
+	"security-accesslog-storage": {
+		"EsmCode": "A012738",
+		"Idc": "평촌",
+		"ServiceName": "네이버 보안"
+	},
+	"NSpeechASR-Storage": {
+		"EsmCode": "A013767",
+		"Idc": "춘천",
+		"ServiceName": "clova_p6"
+	},
+	"panorama": {
+		"EsmCode": "00080",
+		"Idc": "평촌",
+		"ServiceName": "지도"
+	},
+	"grafolio": {
+		"EsmCode": "06616",
+		"Idc": "춘천",
+		"ServiceName": "그라폴리오"
+	},
+	"atft-ai-rush": {
+		"EsmCode": "A020940",
+		"Idc": "평촌",
+		"ServiceName": "Spam filtering"
+	},
+	"pdpAirflowLogs": {
+		"EsmCode": "A021260",
+		"Idc": "춘천",
+		"ServiceName": "PDP"
+	},
+	"cafe_image": {
+		"EsmCode": "N1115",
+		"Idc": "평촌",
+		"ServiceName": "카페"
+	},
+	"cafe_chat": {
+		"EsmCode": "N1115",
+		"Idc": "평촌",
+		"ServiceName": "카페"
+	},
+	"cafe_photoin_upphoto": {
+		"EsmCode": "N1115",
+		"Idc": "평촌",
+		"ServiceName": "카페"
+	},
+	"clova-sdk": {
+		"EsmCode": "A013767",
+		"Idc": "춘천",
+		"ServiceName": "clova_p6"
+	},
+	"NaverCOS": {
+		"EsmCode": "S0200",
+		"Idc": "평촌",
+		"ServiceName": "[운영] 관리메일(COS)"
+	},
+	"webtoon_cdn": {
+		"EsmCode": "A021067",
+		"Idc": "춘천",
+		"ServiceName": "웹툰_AI_플랫폼"
+	},
+	"chatbot": {
+		"EsmCode": "A018920",
+		"Idc": "평촌",
+		"ServiceName": "Clova AI Chatbot"
+	},
+	"pmt-resource": {
+		"EsmCode": "00080",
+		"Idc": "춘천",
+		"ServiceName": "지도"
+	},
+	"ServingFee": {
+		"EsmCode": "A013767",
+		"Idc": "평촌",
+		"ServiceName": "clova_p6"
+	},
+	"bboom-static": {
+		"EsmCode": "N5538",
+		"Idc": "평촌",
+		"ServiceName": "뿜_모바일웹"
+	},
+	"DATA_INFRA": {
+		"EsmCode": "S0245",
+		"Idc": "평촌",
+		"ServiceName": "동영상인프라"
+	},
+	"newsstand": {
+		"EsmCode": "02196",
+		"Idc": "춘천",
+		"ServiceName": "뉴스 스탠드"
+	},
+	"gfd-cms-storage": {
+		"EsmCode": "A019226",
+		"Idc": "평촌",
+		"ServiceName": "GLAD 플랫폼"
+	},
+	"charge": {
+		"EsmCode": "N5111",
+		"Idc": "평촌",
+		"ServiceName": "네이버페이"
+	},
+	"news-streaming": {
+		"EsmCode": "N1170",
+		"Idc": "평촌",
+		"ServiceName": "뉴스"
+	},
+	"grafolio-kafka": {
+		"EsmCode": "06616",
+		"Idc": "평촌",
+		"ServiceName": "그라폴리오"
+	},
+	"messi-file-attach": {
+		"EsmCode": "A008774",
+		"Idc": "평촌",
+		"ServiceName": "라인웹툰"
+	},
+	"now_cms": {
+		"EsmCode": "A019102",
+		"Idc": "평촌",
+		"ServiceName": "네이버 NOW"
+	},
+	"shopping-search-data-external": {
+		"EsmCode": "00085",
+		"Idc": "춘천",
+		"ServiceName": "shopping-search"
+	},
+	"nng_bridge_api": {
+		"EsmCode": "A020482",
+		"Idc": "평촌",
+		"ServiceName": "네이버게임"
+	},
+	"VOD_KR_BACKUP_ALPHA": {
+		"EsmCode": "S0245",
+		"Idc": "춘천",
+		"ServiceName": "동영상인프라"
+	},
+	"cpRaw": {
+		"EsmCode": "A019702",
+		"Idc": "평촌",
+		"ServiceName": "scholytics"
+	},
+	"toonfinder-data": {
+		"EsmCode": "A020105",
+		"Idc": "평촌",
+		"ServiceName": "웹툰_리서치"
+	},
+	"TextAnalysis": {
+		"EsmCode": "A016256",
+		"Idc": "평촌",
+		"ServiceName": "네이버검색 개발"
+	},
+	"vector-wmts-test": {
+		"EsmCode": "S0056",
+		"Idc": "춘천",
+		"ServiceName": "[운영]지역/지도(LOC)"
+	},
+	"excelDownload": {
+		"EsmCode": "A019702",
+		"Idc": "평촌",
+		"ServiceName": "scholytics"
+	},
+	"titan": {
+		"EsmCode": "A021067",
+		"Idc": "평촌",
+		"ServiceName": "웹툰_AI_플랫폼"
+	},
+	"airflow_simage": {
+		"EsmCode": "A014493",
+		"Idc": "평촌",
+		"ServiceName": "스마트렌즈"
+	},
+	"webtoon-kr": {
+		"EsmCode": "N1330",
+		"Idc": "평촌",
+		"ServiceName": "만화&웹툰"
+	},
+	"flova-eco": {
+		"EsmCode": "A013767",
+		"Idc": "평촌",
+		"ServiceName": "clova_p6"
+	},
+	"CS_STATIC": {
+		"EsmCode": "A022224",
+		"Idc": "춘천",
+		"ServiceName": "CS STATIC"
+	},
+	"nng_main_kafka": {
+		"EsmCode": "A020482",
+		"Idc": "평촌",
+		"ServiceName": "네이버게임"
+	},
+	"arrrgo": {
+		"EsmCode": "A020148",
+		"Idc": "평촌",
+		"ServiceName": "Clova AI Engineering"
+	},
+	"DenebSession": {
+		"EsmCode": "00080",
+		"Idc": "춘천",
+		"ServiceName": "지도"
+	},
+	"storeplatform-logs": {
+		"EsmCode": "A012534",
+		"Idc": "춘천",
+		"ServiceName": "스토어플랫폼"
+	},
+	"ClovaNote": {
+		"EsmCode": "A021980",
+		"Idc": "평촌",
+		"ServiceName": "클로바노트"
+	},
+	"ac_kr_log": {
+		"EsmCode": "A013926",
+		"Idc": "평촌",
+		"ServiceName": "오디오플랫폼"
+	},
+	"ncc_logs": {
+		"EsmCode": "A018000",
+		"Idc": "평촌",
+		"ServiceName": "동영상플랫폼"
+	},
+	"linetv-caption": {
+		"EsmCode": "A009319",
+		"Idc": "평촌",
+		"ServiceName": "LINE TV"
+	},
+	"directions-walk": {
+		"EsmCode": "00080",
+		"Idc": "춘천",
+		"ServiceName": "지도"
+	},
+	"cafe_static": {
+		"EsmCode": "N1115",
+		"Idc": "평촌",
+		"ServiceName": "카페"
+	},
+	"urltracer_screenshots": {
+		"EsmCode": "N1155",
+		"Idc": "춘천",
+		"ServiceName": "메일"
+	},
+	"fusion": {
+		"EsmCode": "00080",
+		"Idc": "춘천",
+		"ServiceName": "지도"
+	},
+	"ticket": {
+		"EsmCode": "00080",
+		"Idc": "춘천",
+		"ServiceName": "지도"
+	},
+	"pumasi": {
+		"EsmCode": "A012753",
+		"Idc": "춘천",
+		"ServiceName": "PUMASI"
+	},
+	"safety-shopping": {
+		"EsmCode": "A022210",
+		"Idc": "평촌",
+		"ServiceName": "안전거래센터"
+	},
+	"orca": {
+		"EsmCode": "N1015",
+		"Idc": "평촌",
+		"ServiceName": "웹문서검색"
+	},
+	"vertical-sentry": {
+		"EsmCode": "A012134",
+		"Idc": "평촌",
+		"ServiceName": "(검색)호텔검색광고"
+	},
+	"papago-replacer": {
+		"EsmCode": "A012558",
+		"Idc": "평촌",
+		"ServiceName": "papago"
+	},
+	"GaneshaBenefit": {
+		"EsmCode": "A009356",
+		"Idc": "평촌",
+		"ServiceName": "스마트스토어"
+	},
+	"smartstore-static": {
+		"EsmCode": "A009356",
+		"Idc": "평촌",
+		"ServiceName": "스마트스토어"
+	},
+	"smartstore-toptop": {
+		"EsmCode": "A009356",
+		"Idc": "평촌",
+		"ServiceName": "스마트스토어"
+	},
+	"airflow-ivis": {
+		"EsmCode": "A014493",
+		"Idc": "평촌",
+		"ServiceName": "스마트렌즈"
+	},
+	"file-translation": {
+		"EsmCode": "A012558",
+		"Idc": "평촌",
+		"ServiceName": "papago"
+	},
+	"NEST-API-Gateway": {
+		"EsmCode": "A015360",
+		"Idc": "평촌",
+		"ServiceName": "클로바음성인식"
+	},
+	"ntv_profit": {
+		"EsmCode": "N5532",
+		"Idc": "평촌",
+		"ServiceName": "네이버TV"
+	},
+	"dubbing-static": {
+		"EsmCode": "A020160",
+		"Idc": "평촌",
+		"ServiceName": "클로바더빙"
+	},
+	"hermesKR": {
+		"EsmCode": "A009356",
+		"Idc": "평촌",
+		"ServiceName": "스마트스토어"
+	},
+	"ugcmk": {
+		"EsmCode": "N1105",
+		"Idc": "평촌",
+		"ServiceName": "블로그"
+	},
+	"nelo-snapshot": {
+		"EsmCode": "S0122",
+		"Idc": "평촌",
+		"ServiceName": "NELO"
+	},
+	"crApiAccesslog": {
+		"EsmCode": "00078",
+		"Idc": "평촌",
+		"ServiceName": "통합검색"
+	},
+	"pfc": {
+		"EsmCode": "A022852",
+		"Idc": "평촌",
+		"ServiceName": "네이버 파트너금융지원"
+	},
+	"monitor-bucket": {
+		"EsmCode": "A019238",
+		"Idc": "평촌",
+		"ServiceName": "네이버검색 운영"
+	},
+	"webtoon-ai": {
+		"EsmCode": "A021067",
+		"Idc": "평촌",
+		"ServiceName": "웹툰_AI_플랫폼"
+	},
+	"race-track": {
+		"EsmCode": "00080",
+		"Idc": "춘천",
+		"ServiceName": "지도"
+	},
+	"kin_service_admin": {
+		"EsmCode": "N1100",
+		"Idc": "평촌",
+		"ServiceName": "지식iN"
+	},
+	"aigw-async-data-beta": {
+		"EsmCode": "A019124",
+		"Idc": "평촌",
+		"ServiceName": "Clova AI Platform"
+	},
+	"jobsearch": {
+		"EsmCode": "A016256",
+		"Idc": "평촌",
+		"ServiceName": "네이버검색 개발"
+	},
+	"mattermost": {
+		"EsmCode": "A012958",
+		"Idc": "춘천",
+		"ServiceName": "Mattermost"
+	},
+	"aigw-async-data-prod": {
+		"EsmCode": "A019124",
+		"Idc": "평촌",
+		"ServiceName": "Clova AI Platform"
+	},
+	"media-assistant": {
+		"EsmCode": "A024327",
+		"Idc": "춘천",
+		"ServiceName": "클로바 AI Assistant"
+	},
+	"smartstore-selective": {
+		"EsmCode": "A009356",
+		"Idc": "평촌",
+		"ServiceName": "스마트스토어"
+	},
+	"clovalamp": {
+		"EsmCode": "A014406",
+		"Idc": "춘천",
+		"ServiceName": "clova도메인"
+	},
+	"DenebVrs": {
+		"EsmCode": "00080",
+		"Idc": "춘천",
+		"ServiceName": "지도"
+	},
+	"elevation": {
+		"EsmCode": "00080",
+		"Idc": "평촌",
+		"ServiceName": "지도"
+	},
+	"gncp-metis-kr": {
+		"EsmCode": "A009356",
+		"Idc": "평촌",
+		"ServiceName": "스마트스토어"
+	},
+	"logeye-jp": {
+		"EsmCode": "A017004",
+		"Idc": "도쿄",
+		"ServiceName": "유입 추적 시스템"
+	},
+	"c2cNubes": {
+		"EsmCode": "A021065",
+		"Idc": "도쿄",
+		"ServiceName": "C2C"
+	},
+	"faiss-index": {
+		"EsmCode": "A020148",
+		"Idc": "평촌",
+		"ServiceName": "Clova AI Engineering"
+	},
+	"gncp-metis-jp": {
+		"EsmCode": "A009356",
+		"Idc": "도쿄",
+		"ServiceName": "스마트스토어"
+	},
+	"gncp-rhea-jp": {
+		"EsmCode": "N5351",
+		"Idc": "도쿄",
+		"ServiceName": "쇼핑서비스"
+	},
+	"pdpML": {
+		"EsmCode": "A021260",
+		"Idc": "춘천",
+		"ServiceName": "PDP"
+	},
+	"pirateimages": {
+		"EsmCode": "A020105",
+		"Idc": "평촌",
+		"ServiceName": "웹툰_리서치"
+	},
+	"hermesJP": {
+		"EsmCode": "A009356",
+		"Idc": "도쿄",
+		"ServiceName": "스마트스토어"
+	},
+	"wcs_test": {
+		"EsmCode": "WCSA020747",
+		"Idc": "평촌",
+		"ServiceName": "웹툰 WCS"
+	},
+	"ClovaNoteTest": {
+		"EsmCode": "A021980",
+		"Idc": "평촌",
+		"ServiceName": "클로바노트"
+	},
+	"NEST-API-Gateway-Test": {
+		"EsmCode": "A015360",
+		"Idc": "평촌",
+		"ServiceName": "클로바음성인식"
+	},
+	"kream_service": {
+		"EsmCode": "A020104",
+		"Idc": "평촌",
+		"ServiceName": "크림"
+	},
+	"kream_admin": {
+		"EsmCode": "A020104",
+		"Idc": "평촌",
+		"ServiceName": "크림"
+	},
+	"kream_task": {
+		"EsmCode": "A020104",
+		"Idc": "평촌",
+		"ServiceName": "크림"
+	},
+	"VOD_JP_ALPHA": {
+		"EsmCode": "S0245",
+		"Idc": "도쿄",
+		"ServiceName": "동영상인프라"
+	},
+	"clovaminute_rtmp": {
+		"EsmCode": "A015360",
+		"Idc": "춘천",
+		"ServiceName": "클로바음성인식"
+	},
+	"auto-complete": {
+		"EsmCode": "A012558",
+		"Idc": "평촌",
+		"ServiceName": "papago"
+	},
+	"server-etc": {
+		"EsmCode": "A012558",
+		"Idc": "평촌",
+		"ServiceName": "papago"
+	},
+	"town": {
+		"EsmCode": "S0250",
+		"Idc": "평촌",
+		"ServiceName": "포토인프라"
+	},
+	"article": {
+		"EsmCode": "A014720",
+		"Idc": "도쿄",
+		"ServiceName": "Article"
+	},
+	"NaverMMP": {
+		"EsmCode": "A023860",
+		"Idc": "평촌",
+		"ServiceName": "MMP(마케팅 메시지 플랫폼)"
+	},
+	"scs_static_resource_pyeongchon": {
+		"EsmCode": "A023382",
+		"Idc": "평촌",
+		"ServiceName": "스마트콘텐츠스튜디오"
+	},
+	"scs_static_resource_chuncheon": {
+		"EsmCode": "A023382",
+		"Idc": "춘천",
+		"ServiceName": "스마트콘텐츠스튜디오"
+	},
+	"mi_backup": {
+		"EsmCode": "A013926",
+		"Idc": "춘천",
+		"ServiceName": "오디오플랫폼"
+	},
+	"nimo": {
+		"EsmCode": "A023340",
+		"Idc": "평촌",
+		"ServiceName": "Business Insight"
+	},
+	"brandstore": {
+		"EsmCode": "A009356",
+		"Idc": "평촌",
+		"ServiceName": "스마트스토어"
+	},
+	"VOD_JP_GEMSTONE_ALPHA": {
+		"EsmCode": "S0245",
+		"Idc": "도쿄",
+		"ServiceName": "동영상인프라"
+	},
+	"VOD_JP_GEMSTONE_BRAVO": {
+		"EsmCode": "S0245",
+		"Idc": "도쿄",
+		"ServiceName": "동영상인프라"
+	},
+	"VOD_JP_BACKUP_ALPHA": {
+		"EsmCode": "S0245",
+		"Idc": "도쿄",
+		"ServiceName": "동영상인프라"
+	},
+	"travel-data": {
+		"EsmCode": "A012134",
+		"Idc": "평촌",
+		"ServiceName": "(검색)호텔검색광고"
+	},
+	"aigw-apds-beta": {
+		"EsmCode": "A019124",
+		"Idc": "평촌",
+		"ServiceName": "Clova AI Platform"
+	},
+	"aigw-apds-prod": {
+		"EsmCode": "A019124",
+		"Idc": "평촌",
+		"ServiceName": "Clova AI Platform"
+	},
+	"pa-dmp": {
+		"EsmCode": "A017240",
+		"Idc": "평촌",
+		"ServiceName": "GLAD 플랫폼"
+	},
+	"smartstore-venice": {
+		"EsmCode": "A009356",
+		"Idc": "평촌",
+		"ServiceName": "스마트스토어"
+	},
+	"smartstore": {
+		"EsmCode": "A009356",
+		"Idc": "평촌",
+		"ServiceName": "스마트스토어"
+	},
+	"cdnStaticDev": {
+		"EsmCode": "A016164",
+		"Idc": "춘천",
+		"ServiceName": "아폴로 공통 플랫폼 개발"
+	},
+	"MLDL-model-storage": {
+		"EsmCode": "A021441",
+		"Idc": "춘천",
+		"ServiceName": "flova-al"
+	},
+	"CAKE_LOGS": {
+		"EsmCode": "A015399",
+		"Idc": "평촌",
+		"ServiceName": "CAKE English"
+	},
+	"flf": {
+		"EsmCode": "A017922",
+		"Idc": "춘천",
+		"ServiceName": "IQ-Engine"
+	},
+	"flf-alpha": {
+		"EsmCode": "A017922",
+		"Idc": "춘천",
+		"ServiceName": "IQ-Engine"
+	},
+	"umon": {
+		"EsmCode": "KRBS0312",
+		"Idc": "평촌",
+		"ServiceName": "uMon"
+	},
+	"aimd-pipeline": {
+		"EsmCode": "A015265",
+		"Idc": "평촌",
+		"ServiceName": "클로바플랫폼"
+	},
+	"clova-auto-complete": {
+		"EsmCode": "A013767",
+		"Idc": "춘천",
+		"ServiceName": "clova_p6"
+	},
+	"heimdallKR": {
+		"EsmCode": "A009356",
+		"Idc": "평촌",
+		"ServiceName": "스마트스토어"
+	},
+	"TDBNaverBucket": {
+		"EsmCode": "A023900",
+		"Idc": "춘천",
+		"ServiceName": "기술인재영입"
+	},
+	"gncp-display-static": {
+		"EsmCode": "A021224",
+		"Idc": "도쿄",
+		"ServiceName": "쇼핑서비스(JP)"
+	},
+	"gncp-we-nginx": {
+		"EsmCode": "A021224",
+		"Idc": "도쿄",
+		"ServiceName": "쇼핑서비스(JP)"
+	},
+	"gncp-display-web": {
+		"EsmCode": "A021224",
+		"Idc": "도쿄",
+		"ServiceName": "쇼핑서비스(JP)"
+	},
+	"gncp-venice": {
+		"EsmCode": "A021224",
+		"Idc": "도쿄",
+		"ServiceName": "쇼핑서비스(JP)"
+	},
+	"heimdallJP": {
+		"EsmCode": "A009356",
+		"Idc": "도쿄",
+		"ServiceName": "스마트스토어"
+	},
+	"gncp-mercury-jp": {
+		"EsmCode": "A021224",
+		"Idc": "도쿄",
+		"ServiceName": "쇼핑서비스(JP)"
+	},
+	"gncp-shopper-jp": {
+		"EsmCode": "A021224",
+		"Idc": "도쿄",
+		"ServiceName": "쇼핑서비스(JP)"
+	},
+	"expert-web-static": {
+		"EsmCode": "N1100",
+		"Idc": "춘천",
+		"ServiceName": "지식iN"
+	},
+	"gncp-static-pub": {
+		"EsmCode": "A021224",
+		"Idc": "도쿄",
+		"ServiceName": "쇼핑서비스(JP)"
+	},
+	"ac_jp_upload": {
+		"EsmCode": "A013926",
+		"Idc": "도쿄",
+		"ServiceName": "오디오플랫폼"
+	},
+	"ac_jp_source": {
+		"EsmCode": "A013926",
+		"Idc": "도쿄",
+		"ServiceName": "오디오플랫폼"
+	},
+	"ac_jp_audio": {
+		"EsmCode": "A013926",
+		"Idc": "도쿄",
+		"ServiceName": "오디오플랫폼"
+	},
+	"ac_jp_processor": {
+		"EsmCode": "A013926",
+		"Idc": "도쿄",
+		"ServiceName": "오디오플랫폼"
+	},
+	"ac_jp_log": {
+		"EsmCode": "A013926",
+		"Idc": "도쿄",
+		"ServiceName": "오디오플랫폼"
+	},
+	"avpyapiapp": {
+		"EsmCode": "A020356",
+		"Idc": "평촌",
+		"ServiceName": "바이브"
+	},
+	"cspml": {
+		"EsmCode": "00085",
+		"Idc": "평촌",
+		"ServiceName": "shopping-search"
+	},
+	"gncp-statistics-jp": {
+		"EsmCode": "A021224",
+		"Idc": "도쿄",
+		"ServiceName": "쇼핑서비스(JP)"
+	},
+	"gncp-kairos-jp": {
+		"EsmCode": "A021224",
+		"Idc": "도쿄",
+		"ServiceName": "쇼핑서비스(JP)"
+	},
+	"blog-web-mobile-static": {
+		"EsmCode": "N1105",
+		"Idc": "춘천",
+		"ServiceName": "블로그"
+	},
+	"mi_video": {
+		"EsmCode": "A013926",
+		"Idc": "평촌",
+		"ServiceName": "오디오플랫폼"
+	},
+	"music-real": {
+		"EsmCode": "N1320",
+		"Idc": "평촌",
+		"ServiceName": "뮤직"
+	},
+	"gncp-dlvr-jp": {
+		"EsmCode": "A021224",
+		"Idc": "도쿄",
+		"ServiceName": "쇼핑서비스(JP)"
+	},
+	"gncp-shopper-fe-jp": {
+		"EsmCode": "A021224",
+		"Idc": "도쿄",
+		"ServiceName": "쇼핑서비스(JP)"
+	},
+	"gncp-log-jp": {
+		"EsmCode": "A021224",
+		"Idc": "도쿄",
+		"ServiceName": "쇼핑서비스(JP)"
+	},
+	"shopv-static": {
+		"EsmCode": "A022280",
+		"Idc": "평촌",
+		"ServiceName": "쇼핑버티컬"
+	},
+	"gncp_jp_content": {
+		"EsmCode": "S0250",
+		"Idc": "도쿄",
+		"ServiceName": "포토인프라"
+	},
+	"gncp_jp_editor": {
+		"EsmCode": "S0250",
+		"Idc": "도쿄",
+		"ServiceName": "포토인프라"
+	},
+	"gncp_jp_order": {
+		"EsmCode": "S0250",
+		"Idc": "도쿄",
+		"ServiceName": "포토인프라"
+	},
+	"gncp_jp_product": {
+		"EsmCode": "S0250",
+		"Idc": "도쿄",
+		"ServiceName": "포토인프라"
+	},
+	"gncp_jp_review": {
+		"EsmCode": "S0250",
+		"Idc": "도쿄",
+		"ServiceName": "포토인프라"
+	},
+	"gncp_jp_seller": {
+		"EsmCode": "S0250",
+		"Idc": "도쿄",
+		"ServiceName": "포토인프라"
+	},
+	"gncp_jp_shpr": {
+		"EsmCode": "S0250",
+		"Idc": "도쿄",
+		"ServiceName": "포토인프라"
+	},
+	"gncp_jp_store_display": {
+		"EsmCode": "S0250",
+		"Idc": "도쿄",
+		"ServiceName": "포토인프라"
+	},
+	"data-backup": {
+		"EsmCode": "A013930",
+		"Idc": "평촌",
+		"ServiceName": "Robotics"
+	},
+	"scs_cp_data": {
+		"EsmCode": "A023382",
+		"Idc": "춘천",
+		"ServiceName": "스마트콘텐츠스튜디오"
+	},
+	"pdp-utils-sqladmin": {
+		"EsmCode": "A021260",
+		"Idc": "춘천",
+		"ServiceName": "PDP"
+	},
+	"whaleon-files": {
+		"EsmCode": "A013246",
+		"Idc": "평촌",
+		"ServiceName": "whale"
+	},
+	"pdp-zeppelin": {
+		"EsmCode": "A021260",
+		"Idc": "춘천",
+		"ServiceName": "PDP"
+	},
+	"mars-backup": {
+		"EsmCode": "A020148",
+		"Idc": "평촌",
+		"ServiceName": "Clova AI Engineering"
+	},
+	"larva-real": {
+		"EsmCode": "A019480",
+		"Idc": "평촌",
+		"ServiceName": "클로바 Biz AI"
+	},
+	"VOD_AMS_BACKUP": {
+		"EsmCode": "S0245",
+		"Idc": "평촌",
+		"ServiceName": "동영상인프라"
+	},
+	"gncp_jp_marketing": {
+		"EsmCode": "S0250",
+		"Idc": "도쿄",
+		"ServiceName": "포토인프라"
+	},
+	"ac_kr_korearoot": {
+		"EsmCode": "A013926",
+		"Idc": "평촌",
+		"ServiceName": "오디오플랫폼"
+	},
+	"dlp_model": {
+		"EsmCode": "A015358",
+		"Idc": "평촌",
+		"ServiceName": "클로바DM"
+	},
+	"jp_photoin_upphoto": {
+		"EsmCode": "S0250",
+		"Idc": "도쿄",
+		"ServiceName": "포토인프라"
+	},
+	"jp_lip": {
+		"EsmCode": "S0250",
+		"Idc": "도쿄",
+		"ServiceName": "포토인프라"
+	},
+	"jp_vodcloud": {
+		"EsmCode": "S0250",
+		"Idc": "도쿄",
+		"ServiceName": "포토인프라"
+	},
+	"jp_draft": {
+		"EsmCode": "S0250",
+		"Idc": "도쿄",
+		"ServiceName": "포토인프라"
+	},
+	"falcon-graph": {
+		"EsmCode": "00523",
+		"Idc": "평촌",
+		"ServiceName": "DSS(컨텐츠검색관리시스템)"
+	},
+	"hyper-clova-chat": {
+		"EsmCode": "A013767",
+		"Idc": "춘천",
+		"ServiceName": "clova_p6"
+	},
+	"jp_c2c": {
+		"EsmCode": "S0250",
+		"Idc": "도쿄",
+		"ServiceName": "포토인프라"
+	},
+	"rephrase_data": {
+		"EsmCode": "A015358",
+		"Idc": "평촌",
+		"ServiceName": "클로바DM"
+	},
+	"CreativeManager": {
+		"EsmCode": "A023867",
+		"Idc": "평촌",
+		"ServiceName": "GCC"
+	},
+	"kream_web": {
+		"EsmCode": "A020104",
+		"Idc": "평촌",
+		"ServiceName": "크림"
+	},
+	"font-generation": {
+		"EsmCode": "A019124",
+		"Idc": "춘천",
+		"ServiceName": "Clova AI Platform"
+	},
+	"etech-dashboard-flink-stage": {
+		"EsmCode": "A014379",
+		"Idc": "춘천",
+		"ServiceName": "lip"
+	},
+	"etech-dashboard-flink-real": {
+		"EsmCode": "A014379",
+		"Idc": "춘천",
+		"ServiceName": "lip"
+	},
+	"ntm_scripts": {
+		"EsmCode": "A012454",
+		"Idc": "춘천",
+		"ServiceName": "네이버인사이트"
+	},
+	"speeds": {
+		"EsmCode": "00080",
+		"Idc": "춘천",
+		"ServiceName": "지도"
+	},
+	"talktalk": {
+		"EsmCode": "A015265",
+		"Idc": "평촌",
+		"ServiceName": "클로바플랫폼"
+	},
+	"cart": {
+		"EsmCode": "N5351",
+		"Idc": "평촌",
+		"ServiceName": "쇼핑서비스"
+	},
+	"nlp_operation": {
+		"EsmCode": "A015358",
+		"Idc": "평촌",
+		"ServiceName": "클로바DM"
+	},
+	"scs_channel_data": {
+		"EsmCode": "A023382",
+		"Idc": "춘천",
+		"ServiceName": "스마트콘텐츠스튜디오"
+	},
+	"feedback": {
+		"EsmCode": "A024467",
+		"Idc": "평촌",
+		"ServiceName": "피드백"
+	},
+	"shopping-search-dags": {
+		"EsmCode": "00085",
+		"Idc": "춘천",
+		"ServiceName": "shopping-search"
+	},
+	"shopping-search-logs": {
+		"EsmCode": "00085",
+		"Idc": "춘천",
+		"ServiceName": "shopping-search"
+	},
+	"ctrans": {
+		"EsmCode": "A010087",
+		"Idc": "춘천",
+		"ServiceName": "참여번역"
+	},
+	"billing-b2b": {
+		"EsmCode": "06114",
+		"Idc": "평촌",
+		"ServiceName": "전사공통빌링"
+	},
+	"pai": {
+		"EsmCode": "A024444",
+		"Idc": "춘천",
+		"ServiceName": "Global Place AI"
+	},
+	"cocoa-logs": {
+		"EsmCode": "N5009",
+		"Idc": "평촌",
+		"ServiceName": "스마트플레이스"
+	},
+	"influencer": {
+		"EsmCode": "A019458",
+		"Idc": "평촌",
+		"ServiceName": "인플루언서_홈"
+	},
+	"discovercrop": {
+		"EsmCode": "S0250",
+		"Idc": "평촌",
+		"ServiceName": "포토인프라"
+	},
+	"toonradar-0615": {
+		"EsmCode": "A021067",
+		"Idc": "평촌",
+		"ServiceName": "웹툰_AI_플랫폼"
+	},
+	"clops-model-registry-beta": {
+		"EsmCode": "A015265",
+		"Idc": "평촌",
+		"ServiceName": "클로바플랫폼"
+	},
+	"clops-model-registry-prod": {
+		"EsmCode": "A015265",
+		"Idc": "평촌",
+		"ServiceName": "클로바플랫폼"
+	},
+	"place_data": {
+		"EsmCode": "N5009",
+		"Idc": "평촌",
+		"ServiceName": "스마트플레이스"
+	},
+	"LIVE_CLOUD_NMSS": {
+		"EsmCode": "A014379",
+		"Idc": "춘천",
+		"ServiceName": "lip"
+	},
+	"common-banner": {
+		"EsmCode": "A008774",
+		"Idc": "춘천",
+		"ServiceName": "라인웹툰"
+	},
+	"gmc": {
+		"EsmCode": "S0250",
+		"Idc": "평촌",
+		"ServiceName": "포토인프라"
+	},
+	"gncp-iris-kr": {
+		"EsmCode": "A009356",
+		"Idc": "평촌",
+		"ServiceName": "스마트스토어"
+	},
+	"Toonradar-pdms": {
+		"EsmCode": "A021067",
+		"Idc": "평촌",
+		"ServiceName": "웹툰_AI_플랫폼"
+	},
+	"nsml": {
+		"EsmCode": "A014429",
+		"Idc": "춘천",
+		"ServiceName": "Clova ML"
+	},
+	"nsml-stage": {
+		"EsmCode": "A014429",
+		"Idc": "춘천",
+		"ServiceName": "Clova ML"
+	},
+	"nsml-dev": {
+		"EsmCode": "A014429",
+		"Idc": "춘천",
+		"ServiceName": "Clova ML"
+	},
+	"gncp_jp_dpmd": {
+		"EsmCode": "S0250",
+		"Idc": "도쿄",
+		"ServiceName": "포토인프라"
+	},
+	"pubtrans_api_logs": {
+		"EsmCode": "00080",
+		"Idc": "춘천",
+		"ServiceName": "지도"
+	},
+	"webtoon-ds": {
+		"EsmCode": "A021067",
+		"Idc": "평촌",
+		"ServiceName": "웹툰_AI_플랫폼"
+	},
+	"hydra": {
+		"EsmCode": "S0189",
+		"Idc": "평촌",
+		"ServiceName": "ClickQuality"
+	},
+	"Face_Storage_Nubes": {
+		"EsmCode": "A013767",
+		"Idc": "춘천",
+		"ServiceName": "clova_p6"
+	},
+	"EDLP_Backup": {
+		"EsmCode": "00100",
+		"Idc": "평촌",
+		"ServiceName": "IT인프라운영"
+	},
+	"wpt-airflow": {
+		"EsmCode": "A021067",
+		"Idc": "춘천",
+		"ServiceName": "웹툰_AI_플랫폼"
+	},
+	"gncp-sell-frontend-jp": {
+		"EsmCode": "A024245",
+		"Idc": "도쿄",
+		"ServiceName": "스마트스토어(JP)"
+	},
+	"gncp-sell-frontend-kr": {
+		"EsmCode": "A009356",
+		"Idc": "평촌",
+		"ServiceName": "스마트스토어"
+	},
+	"NaviJuncView": {
+		"EsmCode": "00080",
+		"Idc": "춘천",
+		"ServiceName": "지도"
+	},
+	"hairstyle-ai": {
+		"EsmCode": "A013302",
+		"Idc": "평촌",
+		"ServiceName": "플레이스"
+	},
+	"clops-pipeline-beta": {
+		"EsmCode": "A015265",
+		"Idc": "평촌",
+		"ServiceName": "클로바플랫폼"
+	},
+	"whale-classroom": {
+		"EsmCode": "A013246",
+		"Idc": "평촌",
+		"ServiceName": "whale"
+	},
+	"altriv": {
+		"EsmCode": "A014301",
+		"Idc": "평촌",
+		"ServiceName": "On road Intelligence"
+	},
+	"gncp-rhea-kr": {
+		"EsmCode": "A009356",
+		"Idc": "평촌",
+		"ServiceName": "스마트스토어"
+	},
+	"vibe": {
+		"EsmCode": "A020356",
+		"Idc": "평촌",
+		"ServiceName": "바이브"
+	},
+	"ocr-original": {
+		"EsmCode": "A017258",
+		"Idc": "평촌",
+		"ServiceName": "CLOVAOCR"
+	},
+	"gncp-metis-infras-jp": {
+		"EsmCode": "A024245",
+		"Idc": "도쿄",
+		"ServiceName": "스마트스토어(JP)"
+	},
+	"SNOW_H5_FILE": {
+		"EsmCode": "A011097",
+		"Idc": "평촌",
+		"ServiceName": "스노우"
+	},
+	"CS_NIC": {
+		"EsmCode": "A023864",
+		"Idc": "평촌",
+		"ServiceName": "네이버 본인인증 상담시스템"
+	},
+	"gncp-shared-files": {
+		"EsmCode": "A024245",
+		"Idc": "도쿄",
+		"ServiceName": "스마트스토어(JP)"
+	},
+	"clops-pipeline": {
+		"EsmCode": "A015265",
+		"Idc": "평촌",
+		"ServiceName": "클로바플랫폼"
+	},
+	"wstat-temp": {
+		"EsmCode": "A024605",
+		"Idc": "춘천",
+		"ServiceName": "웹툰 WSTAT"
+	},
+	"sboard": {
+		"EsmCode": "N1005",
+		"Idc": "춘천",
+		"ServiceName": "네이버메인"
+	},
+	"papago-edu": {
+		"EsmCode": "A012558",
+		"Idc": "평촌",
+		"ServiceName": "papago"
+	},
+	"mi_xcam": {
+		"EsmCode": "A013926",
+		"Idc": "춘천",
+		"ServiceName": "오디오플랫폼"
+	},
+	"npayad": {
+		"EsmCode": "A025062",
+		"Idc": "평촌",
+		"ServiceName": "네이버페이광고소개페이지"
+	},
+	"banana": {
+		"EsmCode": "A016997",
+		"Idc": "춘천",
+		"ServiceName": "Clova NLU"
+	},
+	"ba_stats_n2c_logs": {
+		"EsmCode": "N5585",
+		"Idc": "춘천",
+		"ServiceName": "band"
+	},
+	"jp_cbox": {
+		"EsmCode": "S0250",
+		"Idc": "도쿄",
+		"ServiceName": "포토인프라"
+	},
+	"airflow-ssp-batch-logs": {
+		"EsmCode": "00084",
+		"Idc": "평촌",
+		"ServiceName": "[DA]광고지원"
+	},
+	"ocr-original-dev": {
+		"EsmCode": "A017258",
+		"Idc": "평촌",
+		"ServiceName": "CLOVAOCR"
+	},
+	"webtoon-event": {
+		"EsmCode": "A008774",
+		"Idc": "평촌",
+		"ServiceName": "라인웹툰"
+	},
+	"clue": {
+		"EsmCode": "A019480",
+		"Idc": "평촌",
+		"ServiceName": "클로바 Biz AI"
+	},
+	"open_data": {
+		"EsmCode": "A017258",
+		"Idc": "평촌",
+		"ServiceName": "CLOVAOCR"
+	},
+	"kream_backup": {
+		"EsmCode": "A020104",
+		"Idc": "평촌",
+		"ServiceName": "크림"
+	},
+	"net-data-storage": {
+		"EsmCode": "A016256",
+		"Idc": "평촌",
+		"ServiceName": "네이버검색 개발"
+	},
+	"NLP-NOW-topics": {
+		"EsmCode": "A016256",
+		"Idc": "평촌",
+		"ServiceName": "네이버검색 개발"
+	},
+	"x-ray": {
+		"EsmCode": "A024341",
+		"Idc": "평촌",
+		"ServiceName": "프리미엄 콘텐츠"
+	},
+	"nlp-sa": {
+		"EsmCode": "A016256",
+		"Idc": "평촌",
+		"ServiceName": "네이버검색 개발"
+	},
+	"clops-model-registry-cold-beta": {
+		"EsmCode": "A013767",
+		"Idc": "춘천",
+		"ServiceName": "clova_p6"
+	},
+	"clops-model-registry-cold-prod": {
+		"EsmCode": "A013767",
+		"Idc": "춘천",
+		"ServiceName": "clova_p6"
+	},
+	"mmdata-v2": {
+		"EsmCode": "00080",
+		"Idc": "춘천",
+		"ServiceName": "지도"
+	},
+	"election": {
+		"EsmCode": "N1170",
+		"Idc": "춘천",
+		"ServiceName": "뉴스"
+	},
+	"plutoKR": {
+		"EsmCode": "A009356",
+		"Idc": "평촌",
+		"ServiceName": "스마트스토어"
+	},
+	"smartstore-c": {
+		"EsmCode": "A009356",
+		"Idc": "춘천",
+		"ServiceName": "스마트스토어"
+	},
+	"brandstore-c": {
+		"EsmCode": "A009356",
+		"Idc": "춘천",
+		"ServiceName": "스마트스토어"
+	},
+	"smartstore-selective-c": {
+		"EsmCode": "A009356",
+		"Idc": "춘천",
+		"ServiceName": "스마트스토어"
+	},
+	"smartstore-toptop-c": {
+		"EsmCode": "A009356",
+		"Idc": "춘천",
+		"ServiceName": "스마트스토어"
+	},
+	"smartstore-static-c": {
+		"EsmCode": "A009356",
+		"Idc": "춘천",
+		"ServiceName": "스마트스토어"
+	},
+	"smartstore-venice-c": {
+		"EsmCode": "A009356",
+		"Idc": "춘천",
+		"ServiceName": "스마트스토어"
+	},
+	"Face_Model_Nubes": {
+		"EsmCode": "A014429",
+		"Idc": "춘천",
+		"ServiceName": "Clova ML"
+	},
+	"hyperclova": {
+		"EsmCode": "A022404",
+		"Idc": "판교",
+		"ServiceName": "Next AI Platform"
+	},
+	"query-history": {
+		"EsmCode": "A013767",
+		"Idc": "춘천",
+		"ServiceName": "clova_p6"
+	},
+	"audio_meta": {
+		"EsmCode": "A013926",
+		"Idc": "평촌",
+		"ServiceName": "오디오플랫폼"
+	},
+	"smart-message-model-dev": {
+		"EsmCode": "A019480",
+		"Idc": "춘천",
+		"ServiceName": "클로바 Biz AI"
+	},
+	"event_noti_admin": {
+		"EsmCode": "N3900",
+		"Idc": "춘천",
+		"ServiceName": "네이버 MYBOX"
+	},
+	"archive": {
+		"EsmCode": "00080",
+		"Idc": "평촌",
+		"ServiceName": "지도"
+	},
+	"ai-inference-log": {
+		"EsmCode": "A024205",
+		"Idc": "평촌",
+		"ServiceName": "뮤직ai개발"
+	},
+	"band_gdpr": {
+		"EsmCode": "N5585",
+		"Idc": "평촌",
+		"ServiceName": "band"
+	},
+	"ip-info": {
+		"EsmCode": "03734",
+		"Idc": "평촌",
+		"ServiceName": "커뮤니티플랫폼"
+	},
+	"influencer-web-static": {
+		"EsmCode": "A019458",
+		"Idc": "춘천",
+		"ServiceName": "인플루언서_홈"
+	},
+	"LIVE_CLOUD_NMSS_SG": {
+		"EsmCode": "A014379",
+		"Idc": "싱가폴",
+		"ServiceName": "lip"
+	},
+	"orca-dataflow-storage": {
+		"EsmCode": "N1015",
+		"Idc": "춘천",
+		"ServiceName": "웹문서검색"
+	},
+	"hera": {
+		"EsmCode": "00078",
+		"Idc": "평촌",
+		"ServiceName": "통합검색"
+	},
+	"ncc-logs": {
+		"EsmCode": "A011108",
+		"Idc": "평촌",
+		"ServiceName": "[플랫폼]네이버예약"
+	},
+	"drm-sample": {
+		"EsmCode": "S0332",
+		"Idc": "춘천",
+		"ServiceName": "영화방송CMS(MCMS)"
+	},
+	"AppSafer": {
+		"EsmCode": "A014302",
+		"Idc": "평촌",
+		"ServiceName": "App Safer"
+	},
+	"mi_log_jp": {
+		"EsmCode": "A013926",
+		"Idc": "도쿄",
+		"ServiceName": "오디오플랫폼"
+	},
+	"cafe-web-static": {
+		"EsmCode": "N1115",
+		"Idc": "평촌",
+		"ServiceName": "카페"
+	},
+	"ClovaNoteNotiTest": {
+		"EsmCode": "A021980",
+		"Idc": "평촌",
+		"ServiceName": "클로바노트"
+	},
+	"ClovaNoteNoti": {
+		"EsmCode": "A021980",
+		"Idc": "평촌",
+		"ServiceName": "클로바노트"
+	},
+	"ac_kr_static": {
+		"EsmCode": "A013926",
+		"Idc": "평촌",
+		"ServiceName": "오디오플랫폼"
+	},
+	"common-notice": {
+		"EsmCode": "A025400",
+		"Idc": "춘천",
+		"ServiceName": "(운영)통합공지관리시스템"
+	},
+	"pasha-data": {
+		"EsmCode": "A013767",
+		"Idc": "평촌",
+		"ServiceName": "clova_p6"
+	},
+	"whaleon-reports": {
+		"EsmCode": "A013246",
+		"Idc": "평촌",
+		"ServiceName": "whale"
+	},
+	"MTC_A1_REAL": {
+		"EsmCode": "S0245",
+		"Idc": "평촌",
+		"ServiceName": "동영상인프라"
+	},
+	"jp_article": {
+		"EsmCode": "S0250",
+		"Idc": "도쿄",
+		"ServiceName": "포토인프라"
+	},
+	"wbgs_resources": {
+		"EsmCode": "A025907",
+		"Idc": "평촌",
+		"ServiceName": "웹툰브랜드가이드사이트"
+	},
+	"nsw-static": {
+		"EsmCode": "A012322",
+		"Idc": "평촌",
+		"ServiceName": "쇼핑윈도"
+	},
+	"gfa-delivery-adcache-stg": {
+		"EsmCode": "A017240",
+		"Idc": "평촌",
+		"ServiceName": "GLAD 플랫폼"
+	},
+	"gfa-delivery-adcache": {
+		"EsmCode": "A017240",
+		"Idc": "평촌",
+		"ServiceName": "GLAD 플랫폼"
+	},
+	"LIVE_CLOUD_NMSS_DE": {
+		"EsmCode": "A014379",
+		"Idc": "프랑크푸르트",
+		"ServiceName": "lip"
+	},
+	"LIVE_CLOUD_NMSS_USE": {
+		"EsmCode": "A014379",
+		"Idc": "미동부",
+		"ServiceName": "lip"
+	},
+	"LIVE_CLOUD_NMSS_USW": {
+		"EsmCode": "A014379",
+		"Idc": "미서부",
+		"ServiceName": "lip"
+	},
+	"nubes-fuse-tokyo": {
+		"EsmCode": "A014578",
+		"Idc": "도쿄",
+		"ServiceName": "nubes"
+	},
+	"nubes-fuse-singapore": {
+		"EsmCode": "A014578",
+		"Idc": "싱가폴",
+		"ServiceName": "nubes"
+	},
+	"nubes-fuse-frankfurt": {
+		"EsmCode": "A014578",
+		"Idc": "프랑크푸르트",
+		"ServiceName": "nubes"
+	},
+	"nubes-fuse-us-east": {
+		"EsmCode": "A014578",
+		"Idc": "미동부",
+		"ServiceName": "nubes"
+	},
+	"nubes-fuse-us-west": {
+		"EsmCode": "A014578",
+		"Idc": "미서부",
+		"ServiceName": "nubes"
+	},
+	"nubes-fuse-pangyo": {
+		"EsmCode": "A014578",
+		"Idc": "판교",
+		"ServiceName": "nubes"
+	},
+	"live_commerce_file": {
+		"EsmCode": "A014717",
+		"Idc": "평촌",
+		"ServiceName": "쇼핑라이브"
+	},
+	"feedback-jp": {
+		"EsmCode": "A024467",
+		"Idc": "도쿄",
+		"ServiceName": "피드백"
+	},
+	"streaming-model": {
+		"EsmCode": "A015360",
+		"Idc": "춘천",
+		"ServiceName": "클로바음성인식"
+	},
+	"nsa-adcenter-log": {
+		"EsmCode": "00083",
+		"Idc": "평촌",
+		"ServiceName": "[검색]클릭초이스"
+	},
+	"gncp-vulkan-kr": {
+		"EsmCode": "A025787",
+		"Idc": "평촌",
+		"ServiceName": "커머스솔루션"
+	},
+	"uvl-dev": {
+		"EsmCode": "A013930",
+		"Idc": "춘천",
+		"ServiceName": "Robotics"
+	},
+	"clova-gift": {
+		"EsmCode": "A015265",
+		"Idc": "평촌",
+		"ServiceName": "클로바플랫폼"
+	},
+	"pddAirflowLogsCDH": {
+		"EsmCode": "A021260",
+		"Idc": "평촌",
+		"ServiceName": "PDP"
+	},
+	"nam_api_report": {
+		"EsmCode": "A019224",
+		"Idc": "평촌",
+		"ServiceName": "GFP"
+	},
+	"localsearch-refine": {
+		"EsmCode": "A014252",
+		"Idc": "평촌",
+		"ServiceName": "플레이스 검색​"
+	},
+	"groute-devel": {
+		"EsmCode": "A015718",
+		"Idc": "춘천",
+		"ServiceName": "Clous"
+	},
+	"gfp-sdk-sentry": {
+		"EsmCode": "A019224",
+		"Idc": "평촌",
+		"ServiceName": "GFP"
+	},
+	"bizadvisor": {
+		"EsmCode": "N5571",
+		"Idc": "춘천",
+		"ServiceName": "네이버애널리틱스"
+	},
+	"ni_purple_backup": {
+		"EsmCode": "A012454",
+		"Idc": "평촌",
+		"ServiceName": "네이버인사이트"
+	},
+	"jp_homebuilder": {
+		"EsmCode": "S0250",
+		"Idc": "도쿄",
+		"ServiceName": "포토인프라"
+	},
+	"recruit-gosp-ncc": {
+		"EsmCode": "A025420",
+		"Idc": "춘천",
+		"ServiceName": "채용홈페이지_NAVER"
+	},
+	"pdd_airflow_logs": {
+		"EsmCode": "A021260",
+		"Idc": "평촌",
+		"ServiceName": "PDP"
+	},
+	"ClovaNoteUSe_Dev": {
+		"EsmCode": "A021980",
+		"Idc": "미동부",
+		"ServiceName": "클로바노트"
+	},
+	"ClovaNoteUSe_Test": {
+		"EsmCode": "A021980",
+		"Idc": "미동부",
+		"ServiceName": "클로바노트"
+	},
+	"ClovaNoteUSe_Real": {
+		"EsmCode": "A021980",
+		"Idc": "미동부",
+		"ServiceName": "클로바노트"
+	},
+	"ClovaNoteUSw_Real": {
+		"EsmCode": "A021980",
+		"Idc": "미서부",
+		"ServiceName": "클로바노트"
+	},
+	"ClovaNoteUSw_Test": {
+		"EsmCode": "A021980",
+		"Idc": "미서부",
+		"ServiceName": "클로바노트"
+	},
+	"ClovaNoteUSw_Dev": {
+		"EsmCode": "A021980",
+		"Idc": "미서부",
+		"ServiceName": "클로바노트"
+	},
+	"core-survey": {
+		"EsmCode": "03734",
+		"Idc": "평촌",
+		"ServiceName": "커뮤니티플랫폼"
+	},
+	"nelo-snapshot-jp": {
+		"EsmCode": "S0122",
+		"Idc": "도쿄",
+		"ServiceName": "NELO"
+	},
+	"eprmbackup": {
+		"EsmCode": "03754",
+		"Idc": "평촌",
+		"ServiceName": "개인정보보호 솔루션"
+	},
+	"now_ai": {
+		"EsmCode": "A019102",
+		"Idc": "평촌",
+		"ServiceName": "네이버 NOW"
+	},
+	"big_model_nlp": {
+		"EsmCode": "A016256",
+		"Idc": "춘천",
+		"ServiceName": "네이버검색 개발"
+	},
+	"gfp-admin-nam-prod": {
+		"EsmCode": "A019224",
+		"Idc": "평촌",
+		"ServiceName": "GFP"
+	},
+	"wcs_dump": {
+		"EsmCode": "A020747",
+		"Idc": "평촌",
+		"ServiceName": "웹툰 WCS"
+	},
+	"nsw-storage": {
+		"EsmCode": "A012322",
+		"Idc": "평촌",
+		"ServiceName": "쇼핑윈도"
+	},
+	"fs-core-registry": {
+		"EsmCode": "A016000",
+		"Idc": "평촌",
+		"ServiceName": "스마트어라운드"
+	},
+	"PrismPlayerAny": {
+		"EsmCode": "A018000",
+		"Idc": "평촌",
+		"ServiceName": "동영상플랫폼"
+	},
+	"OSSMentionMute": {
+		"EsmCode": "A014379",
+		"Idc": "춘천",
+		"ServiceName": "lip"
+	},
+	"serieson-static": {
+		"EsmCode": "S0322",
+		"Idc": "춘천",
+		"ServiceName": "영화방송CMS(MCMS)"
+	},
+	"series-static": {
+		"EsmCode": "N5610",
+		"Idc": "평촌",
+		"ServiceName": "시리즈_PC웹"
+	},
+	"reeva": {
+		"EsmCode": "A014429",
+		"Idc": "춘천",
+		"ServiceName": "Clova ML"
+	},
+	"clops-async-predictions-prod": {
+		"EsmCode": "A026651",
+		"Idc": "평촌",
+		"ServiceName": "CLOVA CLOps KR"
+	},
+	"clops-async-predictions-beta": {
+		"EsmCode": "A026651",
+		"Idc": "평촌",
+		"ServiceName": "CLOVA CLOps KR"
+	},
+	"da-bucket": {
+		"EsmCode": "A019224",
+		"Idc": "춘천",
+		"ServiceName": "GFP"
+	},
+	"pdd_airflow_logs_dev": {
+		"EsmCode": "A021260",
+		"Idc": "평촌",
+		"ServiceName": "PDP"
+	},
+	"docker_security": {
+		"EsmCode": "A014247",
+		"Idc": "춘천",
+		"ServiceName": "DockerSecurity"
+	},
+	"nes-kr-model-repo": {
+		"EsmCode": "A015361",
+		"Idc": "평촌",
+		"ServiceName": "클로바 음성합성"
+	},
+	"c2c-sitemap": {
+		"EsmCode": "A021065",
+		"Idc": "도쿄",
+		"ServiceName": "C2C"
+	},
+	"c2c-stage-sitemap": {
+		"EsmCode": "A021065",
+		"Idc": "도쿄",
+		"ServiceName": "C2C"
+	},
+	"s1backup": {
+		"EsmCode": "A011384",
+		"Idc": "평촌",
+		"ServiceName": "사내백신"
+	},
+	"expert-noti": {
+		"EsmCode": "N1100",
+		"Idc": "평촌",
+		"ServiceName": "지식iN"
+	},
+	"pa-dsp": {
+		"EsmCode": "A019225",
+		"Idc": "춘천",
+		"ServiceName": "GFA"
+	},
+	"mcfs": {
+		"EsmCode": "S0218",
+		"Idc": "평촌",
+		"ServiceName": "[운영] 저작권필터"
+	},
+	"webnovel-global": {
+		"EsmCode": "A025968",
+		"Idc": "평촌",
+		"ServiceName": "글로벌 웹소설"
+	},
+	"weverse": {
+		"EsmCode": "A025080",
+		"Idc": "평촌",
+		"ServiceName": "위버스"
+	},
+	"shopping-refine": {
+		"EsmCode": "00085",
+		"Idc": "평촌",
+		"ServiceName": "shopping-search"
+	},
+	"gncp-statistics-kr": {
+		"EsmCode": "N5351",
+		"Idc": "평촌",
+		"ServiceName": "쇼핑서비스"
+	},
+	"shopv-static-jp": {
+		"EsmCode": "A026513",
+		"Idc": "도쿄",
+		"ServiceName": "쇼핑버티컬(JP)"
+	},
+	"gfp-adserver": {
+		"EsmCode": "A019224",
+		"Idc": "평촌",
+		"ServiceName": "GFP"
+	},
+	"shopping-review": {
+		"EsmCode": "A009356",
+		"Idc": "평촌",
+		"ServiceName": "스마트스토어"
+	},
+	"wat-image": {
+		"EsmCode": "A025826",
+		"Idc": "평촌",
+		"ServiceName": "웹툰번역지원"
+	},
+	"navertv_bucket": {
+		"EsmCode": "N5532",
+		"Idc": "평촌",
+		"ServiceName": "네이버TV"
+	},
+	"gpc-files": {
+		"EsmCode": "A025165",
+		"Idc": "평촌",
+		"ServiceName": "밴드 파트너센터"
+	},
+	"hermes2": {
+		"EsmCode": "00083",
+		"Idc": "춘천",
+		"ServiceName": "[검색]클릭초이스"
+	},
+	"safe-browsing-log": {
+		"EsmCode": "A025485",
+		"Idc": "평촌",
+		"ServiceName": "NAVER Cyber Security Intelligence"
+	},
+	"ua_user_query_store": {
+		"EsmCode": "A026286",
+		"Idc": "춘천",
+		"ServiceName": "유니버설 어드바이저"
+	},
+	"api-gateway-landing-zone": {
+		"EsmCode": "A020105",
+		"Idc": "평촌",
+		"ServiceName": "웹툰_리서치"
+	},
+	"doc-translation": {
+		"EsmCode": "A012558",
+		"Idc": "평촌",
+		"ServiceName": "papago"
+	},
+	"stage-stock-web-cdn-origin-static": {
+		"EsmCode": "A024522",
+		"Idc": "평촌",
+		"ServiceName": "파이낸셜Front"
+	},
+	"pdd_airflow": {
+		"EsmCode": "A021260",
+		"Idc": "평촌",
+		"ServiceName": "PDP"
+	},
+	"pdd_airflow_dev": {
+		"EsmCode": "A021260",
+		"Idc": "평촌",
+		"ServiceName": "PDP"
+	},
+	"hyperclova-object-storage": {
+		"EsmCode": "A022404",
+		"Idc": "평촌",
+		"ServiceName": "Next AI Platform"
+	},
+	"napoli": {
+		"EsmCode": "N5004",
+		"Idc": "춘천",
+		"ServiceName": "[세부]컨텐츠검색(PC/모바일)"
+	},
+	"wds-landing-zone": {
+		"EsmCode": "A020105",
+		"Idc": "평촌",
+		"ServiceName": "웹툰_리서치"
+	},
+	"n2-hermes-airflow-dags": {
+		"EsmCode": "00083",
+		"Idc": "춘천",
+		"ServiceName": "[검색]클릭초이스"
+	},
+	"mip-attachment": {
+		"EsmCode": "A027103",
+		"Idc": "춘천",
+		"ServiceName": "[운영]엠아이피"
+	},
+	"smartstore-venice-p": {
+		"EsmCode": "A009356",
+		"Idc": "판교",
+		"ServiceName": "스마트스토어"
+	},
+	"smartstore-p": {
+		"EsmCode": "A009356",
+		"Idc": "판교",
+		"ServiceName": "스마트스토어"
+	},
+	"brandstore-p": {
+		"EsmCode": "A009356",
+		"Idc": "판교",
+		"ServiceName": "스마트스토어"
+	},
+	"smartstore-selective-p": {
+		"EsmCode": "A009356",
+		"Idc": "판교",
+		"ServiceName": "스마트스토어"
+	},
+	"smartstore-toptop-p": {
+		"EsmCode": "A009356",
+		"Idc": "판교",
+		"ServiceName": "스마트스토어"
+	},
+	"smartstore-static-p": {
+		"EsmCode": "A009356",
+		"Idc": "판교",
+		"ServiceName": "스마트스토어"
+	},
+	"shopping-review-p": {
+		"EsmCode": "A009356",
+		"Idc": "판교",
+		"ServiceName": "스마트스토어"
+	},
+	"webtoon-batch": {
+		"EsmCode": "A008774",
+		"Idc": "평촌",
+		"ServiceName": "라인웹툰"
+	},
+	"clova-ul-private": {
+		"EsmCode": "A014429",
+		"Idc": "춘천",
+		"ServiceName": "Clova ML"
+	},
+	"band-shared": {
+		"EsmCode": "N5585",
+		"Idc": "평촌",
+		"ServiceName": "band"
+	},
+	"VisionAIStorage": {
+		"EsmCode": "A024664",
+		"Idc": "춘천",
+		"ServiceName": "CLOVA VISION AI SERVICE"
+	},
+	"NAVER_NNT": {
+		"EsmCode": "A025882",
+		"Idc": "춘천",
+		"ServiceName": "알림발송툴"
+	},
+	"main_alarm_analysis": {
+		"EsmCode": "A012961",
+		"Idc": "춘천",
+		"ServiceName": "logdata"
+	},
+	"kin-monitoring": {
+		"EsmCode": "N1100",
+		"Idc": "춘천",
+		"ServiceName": "지식iN"
+	},
+	"CQuery-BAW": {
+		"EsmCode": "A024081",
+		"Idc": "평촌",
+		"ServiceName": "CQuery"
+	},
+	"brandsite_wp_kr": {
+		"EsmCode": "A011301",
+		"Idc": "춘천",
+		"ServiceName": "웍스 소개_KR"
+	},
+	"guide_wp_kr": {
+		"EsmCode": "A011301",
+		"Idc": "춘천",
+		"ServiceName": "웍스 소개_KR"
+	},
+	"notice_web_kr": {
+		"EsmCode": "A011301",
+		"Idc": "춘천",
+		"ServiceName": "웍스 소개_KR"
+	},
+	"help_wp_kr": {
+		"EsmCode": "A006318",
+		"Idc": "춘천",
+		"ServiceName": "웍스고객센터_KR"
+	},
+	"pai-staging": {
+		"EsmCode": "A024444",
+		"Idc": "평촌",
+		"ServiceName": "Global Place AI"
+	},
+	"cloudplatform_de0": {
+		"EsmCode": "S0547",
+		"Idc": "프랑크푸르트",
+		"ServiceName": "Office드라이브"
+	},
+	"ko-zgroup-evideo": {
+		"EsmCode": "A014996",
+		"Idc": "평촌",
+		"ServiceName": "zepeto"
+	},
+	"ncp-scol": {
+		"EsmCode": "N5351",
+		"Idc": "판교",
+		"ServiceName": "쇼핑서비스"
+	},
+	"nsml-dataset-1": {
+		"EsmCode": "A014429",
+		"Idc": "판교",
+		"ServiceName": "Clova ML"
+	},
+	"faster-transformer": {
+		"EsmCode": "A014493",
+		"Idc": "춘천",
+		"ServiceName": "스마트렌즈"
+	},
+	"nb3roker-storage": {
+		"EsmCode": "A012738",
+		"Idc": "춘천",
+		"ServiceName": "네이버 보안"
+	},
+	"nsml-dataset-2": {
+		"EsmCode": "A014429",
+		"Idc": "판교",
+		"ServiceName": "Clova ML"
+	},
+	"nsml-dataset-3": {
+		"EsmCode": "A014429",
+		"Idc": "판교",
+		"ServiceName": "Clova ML"
+	},
+	"nsml-dataset-4": {
+		"EsmCode": "A014429",
+		"Idc": "판교",
+		"ServiceName": "Clova ML"
+	},
+	"nsml-dataset-5": {
+		"EsmCode": "A014429",
+		"Idc": "판교",
+		"ServiceName": "Clova ML"
+	},
+	"nsml-dataset-6": {
+		"EsmCode": "A014429",
+		"Idc": "판교",
+		"ServiceName": "Clova ML"
+	},
+	"nsml-dataset-7": {
+		"EsmCode": "A014429",
+		"Idc": "판교",
+		"ServiceName": "Clova ML"
+	},
+	"nsml-dataset-8": {
+		"EsmCode": "A014429",
+		"Idc": "판교",
+		"ServiceName": "Clova ML"
+	},
+	"aitoonhub": {
+		"EsmCode": "A021067",
+		"Idc": "평촌",
+		"ServiceName": "웹툰_AI_플랫폼"
+	},
+	"ntalk-rcmd": {
+		"EsmCode": "A026922",
+		"Idc": "판교",
+		"ServiceName": "네이버 오픈톡"
+	},
+	"nws-wmts": {
+		"EsmCode": "00080",
+		"Idc": "춘천",
+		"ServiceName": "지도"
+	},
+	"nmt-apis-dump": {
+		"EsmCode": "A012558",
+		"Idc": "평촌",
+		"ServiceName": "papago"
+	},
+	"ntracker": {
+		"EsmCode": "A024284",
+		"Idc": "평촌",
+		"ServiceName": "Business Insight"
+	},
+	"smtengines": {
+		"EsmCode": "A012558",
+		"Idc": "춘천",
+		"ServiceName": "papago"
+	},
+	"mlx-ad-dev": {
+		"EsmCode": "A019480",
+		"Idc": "판교",
+		"ServiceName": "클로바 Biz AI"
+	},
+	"mlx-ad": {
+		"EsmCode": "A019480",
+		"Idc": "판교",
+		"ServiceName": "클로바 Biz AI"
+	},
+	"scs_contents_attachment_pyeongchon": {
+		"EsmCode": "A024341",
+		"Idc": "평촌",
+		"ServiceName": "프리미엄 콘텐츠"
+	},
+	"toonfinder": {
+		"EsmCode": "A021067",
+		"Idc": "평촌",
+		"ServiceName": "웹툰_AI_플랫폼"
+	},
+	"spirra": {
+		"EsmCode": "00080",
+		"Idc": "춘천",
+		"ServiceName": "지도"
+	},
+	"pddSparkStreaming": {
+		"EsmCode": "A021260",
+		"Idc": "평촌",
+		"ServiceName": "PDP"
+	},
+	"scavenger": {
+		"EsmCode": "A012453",
+		"Idc": "평촌",
+		"ServiceName": "PAAS"
+	},
+	"gfd-share-storage": {
+		"EsmCode": "A019226",
+		"Idc": "평촌",
+		"ServiceName": "GLAD 플랫폼"
+	},
+	"nsml-backup": {
+		"EsmCode": "A014429",
+		"Idc": "춘천",
+		"ServiceName": "Clova ML"
+	},
+	"se-sentry": {
+		"EsmCode": "S0226",
+		"Idc": "판교",
+		"ServiceName": "스마트에디터"
+	},
+	"papago-fe-sentry": {
+		"EsmCode": "A014711",
+		"Idc": "평촌",
+		"ServiceName": "파파고 웹"
+	},
+	"mlops-libs": {
+		"EsmCode": "A012558",
+		"Idc": "평촌",
+		"ServiceName": "papago"
+	},
+	"c-mlx-ad": {
+		"EsmCode": "A019480",
+		"Idc": "춘천",
+		"ServiceName": "클로바 Biz AI"
+	},
+	"c-mlx-ad-dev": {
+		"EsmCode": "A019480",
+		"Idc": "춘천",
+		"ServiceName": "클로바 Biz AI"
+	},
+	"papago-dict": {
+		"EsmCode": "A025883",
+		"Idc": "도쿄",
+		"ServiceName": "파파고 사전"
+	},
+	"ctt-wmts": {
+		"EsmCode": "00080",
+		"Idc": "평촌",
+		"ServiceName": "지도"
+	},
+	"gncp-vulkan-jp": {
+		"EsmCode": "A025787",
+		"Idc": "도쿄",
+		"ServiceName": "커머스솔루션"
+	},
+	"privacy-center-per": {
+		"EsmCode": "N5426",
+		"Idc": "춘천",
+		"ServiceName": "프라이버시센터"
+	},
+	"se-sentry-cr1": {
+		"EsmCode": "S0226",
+		"Idc": "춘천",
+		"ServiceName": "스마트에디터"
+	},
+	"vector-wmts": {
+		"EsmCode": "00080",
+		"Idc": "평촌",
+		"ServiceName": "지도"
+	},
+	"messi-file-attach2": {
+		"EsmCode": "A027545",
+		"Idc": "춘천",
+		"ServiceName": "웹툰 공통 메세지 버스"
+	},
+	"influencer-sentry": {
+		"EsmCode": "A019458",
+		"Idc": "판교",
+		"ServiceName": "인플루언서_홈"
+	},
+	"webtoon-admin": {
+		"EsmCode": "A008774",
+		"Idc": "평촌",
+		"ServiceName": "라인웹툰"
+	},
+	"sqlgateway-update": {
+		"EsmCode": "04907",
+		"Idc": "춘천",
+		"ServiceName": "SQL GW"
+	},
+	"nsa-adcenter-static-pub": {
+		"EsmCode": "00083",
+		"Idc": "평촌",
+		"ServiceName": "[검색]클릭초이스"
+	},
+	"SNOW_APPDEPLOY": {
+		"EsmCode": "A011097",
+		"Idc": "평촌",
+		"ServiceName": "스노우"
+	},
+	"creative-center-sentry": {
+		"EsmCode": "A023867",
+		"Idc": "평촌",
+		"ServiceName": "GCC"
+	},
+	"ad-sentry": {
+		"EsmCode": "A023867",
+		"Idc": "판교",
+		"ServiceName": "GCC"
+	},
+	"clova-public": {
+		"EsmCode": "A024921",
+		"Idc": "평촌",
+		"ServiceName": "CLOVA Data"
+	},
+	"pa-druid": {
+		"EsmCode": "A019225",
+		"Idc": "평촌",
+		"ServiceName": "GFA"
+	},
+	"pa-druid-stg": {
+		"EsmCode": "A019225",
+		"Idc": "평촌",
+		"ServiceName": "GFA"
+	},
+	"NCLOUD_CHATCS": {
+		"EsmCode": "A026904",
+		"Idc": "평촌",
+		"ServiceName": "NCP ChatCS"
+	},
+	"mv-nubes": {
+		"EsmCode": "N1175",
+		"Idc": "평촌",
+		"ServiceName": "스포츠"
+	},
+	"testrail": {
+		"EsmCode": "A015265",
+		"Idc": "평촌",
+		"ServiceName": "클로바플랫폼"
+	},
+	"nbsBucket": {
+		"EsmCode": "A027248",
+		"Idc": "평촌",
+		"ServiceName": "NBS (교육플랫폼)"
+	},
+	"mtservice_a": {
+		"EsmCode": "A012558",
+		"Idc": "평촌",
+		"ServiceName": "papago"
+	},
+	"mtservice_c": {
+		"EsmCode": "A012558",
+		"Idc": "춘천",
+		"ServiceName": "papago"
+	},
+	"shopping-review-c": {
+		"EsmCode": "A009356",
+		"Idc": "춘천",
+		"ServiceName": "스마트스토어"
+	},
+	"ncp-scol-c": {
+		"EsmCode": "N5351",
+		"Idc": "춘천",
+		"ServiceName": "쇼핑서비스"
+	},
+	"cloudplatform_kr0": {
+		"EsmCode": "A009943",
+		"Idc": "춘천",
+		"ServiceName": "클라우드스토리지"
+	},
+	"cloudplatform_kr1": {
+		"EsmCode": "A006315",
+		"Idc": "춘천",
+		"ServiceName": "드라이브(웍스)_KR"
+	},
+	"glowup": {
+		"EsmCode": "A025904",
+		"Idc": "평촌",
+		"ServiceName": "글로우"
+	},
+	"CicMyCommandVoice": {
+		"EsmCode": "A013767",
+		"Idc": "춘천",
+		"ServiceName": "clova_p6"
+	},
+	"bts_attachments": {
+		"EsmCode": "KRES0021",
+		"Idc": "춘천",
+		"ServiceName": "BTS"
+	},
+	"gncp-backup-cr": {
+		"EsmCode": "N5351",
+		"Idc": "춘천",
+		"ServiceName": "쇼핑서비스"
+	},
+	"gncp-backup-ar": {
+		"EsmCode": "N5351",
+		"Idc": "평촌",
+		"ServiceName": "쇼핑서비스"
+	},
+	"warp-benchmark-bucket": {
+		"EsmCode": "A024921",
+		"Idc": "평촌",
+		"ServiceName": "CLOVA Data"
+	},
+	"ocrix": {
+		"EsmCode": "A024921",
+		"Idc": "평촌",
+		"ServiceName": "CLOVA Data"
+	},
+	"vision-original": {
+		"EsmCode": "A024921",
+		"Idc": "평촌",
+		"ServiceName": "CLOVA Data"
+	},
+	"task-w-kr1-real": {
+		"EsmCode": "A023037",
+		"Idc": "춘천",
+		"ServiceName": "NCS할일"
+	},
+	"jackpotlog": {
+		"EsmCode": "N5585",
+		"Idc": "춘천",
+		"ServiceName": "band"
+	},
+	"storep-admin": {
+		"EsmCode": "A012534",
+		"Idc": "춘천",
+		"ServiceName": "스토어플랫폼"
+	},
+	"ctrans-static": {
+		"EsmCode": "A010087",
+		"Idc": "평촌",
+		"ServiceName": "참여번역"
+	},
+	"instant-data-store": {
+		"EsmCode": "A026364",
+		"Idc": "춘천",
+		"ServiceName": "웹툰 푸시 플랫폼"
+	},
+	"task-lw-kr1-real": {
+		"EsmCode": "A020983",
+		"Idc": "춘천",
+		"ServiceName": "할일(웍스)_KR"
+	},
+	"task-w-de1-real": {
+		"EsmCode": "A023037",
+		"Idc": "프랑크푸르트",
+		"ServiceName": "NCS할일"
+	},
+	"polygon": {
+		"EsmCode": "00080",
+		"Idc": "춘천",
+		"ServiceName": "지도"
+	},
+	"kream_sentry": {
+		"EsmCode": "A020104",
+		"Idc": "평촌",
+		"ServiceName": "크림"
+	},
+	"etech-console-rc": {
+		"EsmCode": "A024464",
+		"Idc": "춘천",
+		"ServiceName": "ETECH"
+	},
+	"logdata-airflow-mount": {
+		"EsmCode": "A012961",
+		"Idc": "평촌",
+		"ServiceName": "logdata"
+	},
+	"pup_storage": {
+		"EsmCode": "A023866",
+		"Idc": "평촌",
+		"ServiceName": "Place User & Review Platform"
+	},
+	"beta-clops-k8s-backup": {
+		"EsmCode": "A024921",
+		"Idc": "평촌",
+		"ServiceName": "CLOVA Data"
+	},
+	"dongyoung-go": {
+		"EsmCode": "A024921",
+		"Idc": "평촌",
+		"ServiceName": "CLOVA Data"
+	},
+	"DISPUTE_CS": {
+		"EsmCode": "A019763",
+		"Idc": "평촌",
+		"ServiceName": "네이버페이 지원"
+	},
+	"webplayer-xstatic-backup": {
+		"EsmCode": "S0245",
+		"Idc": "춘천",
+		"ServiceName": "동영상인프라"
+	},
+	"task-lw-jp1-real": {
+		"EsmCode": "A023039",
+		"Idc": "도쿄",
+		"ServiceName": "할일(웍스)_JP"
+	},
+	"accentia-batch": {
+		"EsmCode": "A025160",
+		"Idc": "춘천",
+		"ServiceName": "악센티아"
+	},
+	"cell": {
+		"EsmCode": "A026702",
+		"Idc": "춘천",
+		"ServiceName": "스마트 스튜디오 셀"
+	},
+	"clova-aip-sentry": {
+		"EsmCode": "A026500",
+		"Idc": "판교",
+		"ServiceName": "CLOVA AI Product"
+	},
+	"juniver-school": {
+		"EsmCode": "A024121",
+		"Idc": "춘천",
+		"ServiceName": "쥬니버스쿨"
+	},
+	"pa-ml-stage": {
+		"EsmCode": "A019225",
+		"Idc": "평촌",
+		"ServiceName": "GFA"
+	},
+	"pa-ml": {
+		"EsmCode": "A019225",
+		"Idc": "평촌",
+		"ServiceName": "GFA"
+	},
+	"ua_annotation_pyeongchon_prod": {
+		"EsmCode": "A026286",
+		"Idc": "평촌",
+		"ServiceName": "유니버설 어드바이저"
+	},
+	"ua_annotation_chuncheon_prod": {
+		"EsmCode": "A026286",
+		"Idc": "춘천",
+		"ServiceName": "유니버설 어드바이저"
+	},
+	"monitor-sentry-bucket": {
+		"EsmCode": "A019238",
+		"Idc": "평촌",
+		"ServiceName": "네이버검색 운영"
+	},
+	"ncrashlytics": {
+		"EsmCode": "S0122",
+		"Idc": "평촌",
+		"ServiceName": "NELO"
+	},
+	"MapOpenApi-Stg": {
+		"EsmCode": "00080",
+		"Idc": "평촌",
+		"ServiceName": "지도"
+	},
+	"ncp-ganesha": {
+		"EsmCode": "N5351",
+		"Idc": "평촌",
+		"ServiceName": "쇼핑서비스"
+	},
+	"shopad": {
+		"EsmCode": "00086",
+		"Idc": "평촌",
+		"ServiceName": "쇼핑박스"
+	},
+	"wlgs_resources": {
+		"EsmCode": "A028383",
+		"Idc": "평촌",
+		"ServiceName": "웹툰라이센싱디자인가이드사이트"
+	},
+	"premium": {
+		"EsmCode": "A024341",
+		"Idc": "평촌",
+		"ServiceName": "프리미엄 콘텐츠"
+	},
+	"g-clovanote-web-vitess": {
+		"EsmCode": "A021980",
+		"Idc": "미서부",
+		"ServiceName": "클로바노트"
+	},
+	"clovadata": {
+		"EsmCode": "A024921",
+		"Idc": "평촌",
+		"ServiceName": "CLOVA Data"
+	},
+	"wstat-airflow-log": {
+		"EsmCode": "A024605",
+		"Idc": "춘천",
+		"ServiceName": "웹툰 WSTAT"
+	},
+	"wstat-airflow-log-stage": {
+		"EsmCode": "A024605",
+		"Idc": "춘천",
+		"ServiceName": "웹툰 WSTAT"
+	},
+	"cdms": {
+		"EsmCode": "A015265",
+		"Idc": "춘천",
+		"ServiceName": "클로바플랫폼"
+	},
+	"nudge": {
+		"EsmCode": "N1005",
+		"Idc": "평촌",
+		"ServiceName": "네이버메인"
+	},
+	"nudge-backup": {
+		"EsmCode": "N1005",
+		"Idc": "춘천",
+		"ServiceName": "네이버메인"
+	},
+	"shopv-sentry-jp": {
+		"EsmCode": "A026513",
+		"Idc": "도쿄",
+		"ServiceName": "쇼핑버티컬(JP)"
+	},
+	"ssea": {
+		"EsmCode": "A028531",
+		"Idc": "춘천",
+		"ServiceName": "ssea"
+	},
+	"log4ksn": {
+		"EsmCode": "A014833",
+		"Idc": "춘천",
+		"ServiceName": "Answering Engine"
+	},
+	"band-crisis-c": {
+		"EsmCode": "N5585",
+		"Idc": "춘천",
+		"ServiceName": "band"
+	},
+	"band-crisis-pg": {
+		"EsmCode": "N5585",
+		"Idc": "판교",
+		"ServiceName": "band"
+	},
+	"shopv-sentry": {
+		"EsmCode": "A022280",
+		"Idc": "판교",
+		"ServiceName": "쇼핑버티컬"
+	},
+	"mkt": {
+		"EsmCode": "02315",
+		"Idc": "춘천",
+		"ServiceName": "네이버프로모션관리"
+	},
+	"ssp-bucket": {
+		"EsmCode": "A019224",
+		"Idc": "평촌",
+		"ServiceName": "GFP"
+	},
+	"vision-original-dev": {
+		"EsmCode": "A024921",
+		"Idc": "평촌",
+		"ServiceName": "CLOVA Data"
+	},
+	"t2a-internal": {
+		"EsmCode": "A021526",
+		"Idc": "평촌",
+		"ServiceName": "클로바 아바타"
+	},
+	"api_doc": {
+		"EsmCode": "A026663",
+		"Idc": "평촌",
+		"ServiceName": "Naver Media Cloud"
+	},
+	"cdl": {
+		"EsmCode": "A024921",
+		"Idc": "평촌",
+		"ServiceName": "CLOVA Data"
+	},
+	"anubes-test": {
+		"EsmCode": "A014578",
+		"Idc": "평촌",
+		"ServiceName": "nubes"
+	},
+	"pddTemp": {
+		"EsmCode": "A021260",
+		"Idc": "평촌",
+		"ServiceName": "PDP"
+	},
+	"mail-reserve-ncs-de": {
+		"EsmCode": "S0342",
+		"Idc": "프랑크푸르트",
+		"ServiceName": "NCS메일"
+	},
+	"mail-mime-ncs-de": {
+		"EsmCode": "S0342",
+		"Idc": "프랑크푸르트",
+		"ServiceName": "NCS메일"
+	},
+	"mail-spam-ncs-de": {
+		"EsmCode": "S0342",
+		"Idc": "프랑크푸르트",
+		"ServiceName": "NCS메일"
+	},
+	"mail-reserve-ncs-kr": {
+		"EsmCode": "S0342",
+		"Idc": "춘천",
+		"ServiceName": "NCS메일"
+	},
+	"mail-mime-ncs-kr": {
+		"EsmCode": "S0342",
+		"Idc": "춘천",
+		"ServiceName": "NCS메일"
+	},
+	"mail-spam-ncs-kr": {
+		"EsmCode": "S0342",
+		"Idc": "춘천",
+		"ServiceName": "NCS메일"
+	},
+	"shopping-popup-p": {
+		"EsmCode": "A009356",
+		"Idc": "판교",
+		"ServiceName": "스마트스토어"
+	},
+	"shopping-popup-c": {
+		"EsmCode": "A009356",
+		"Idc": "춘천",
+		"ServiceName": "스마트스토어"
+	},
+	"shopping-popup": {
+		"EsmCode": "A009356",
+		"Idc": "평촌",
+		"ServiceName": "스마트스토어"
+	},
+	"gncp-talos": {
+		"EsmCode": "A021224",
+		"Idc": "도쿄",
+		"ServiceName": "쇼핑서비스(JP)"
+	},
+	"ai_craft": {
+		"EsmCode": "A021067",
+		"Idc": "평촌",
+		"ServiceName": "웹툰_AI_플랫폼"
+	},
+	"pdd_airflow_logs_pan_dev": {
+		"EsmCode": "A021260",
+		"Idc": "판교",
+		"ServiceName": "PDP"
+	},
+	"pdd_airflow_logs_pan": {
+		"EsmCode": "A021260",
+		"Idc": "판교",
+		"ServiceName": "PDP"
+	},
+	"pdd": {
+		"EsmCode": "A021260",
+		"Idc": "판교",
+		"ServiceName": "PDP"
+	},
+	"cdn-akamai-blog": {
+		"EsmCode": "A028362",
+		"Idc": "평촌",
+		"ServiceName": "이테크데이터"
+	},
+	"real-neoid-sentry-nubes": {
+		"EsmCode": "S0643",
+		"Idc": "평촌",
+		"ServiceName": "회원플랫폼"
+	},
+	"dev-clops-model-registry": {
+		"EsmCode": "A024921",
+		"Idc": "평촌",
+		"ServiceName": "CLOVA Data"
+	},
+	"clops-k8s-backup-dev": {
+		"EsmCode": "A024921",
+		"Idc": "평촌",
+		"ServiceName": "CLOVA Data"
+	},
+	"clops-k8s-backup-beta": {
+		"EsmCode": "A024921",
+		"Idc": "평촌",
+		"ServiceName": "CLOVA Data"
+	},
+	"clops-k8s-backup-prod": {
+		"EsmCode": "A024921",
+		"Idc": "평촌",
+		"ServiceName": "CLOVA Data"
+	},
+	"mfa-face3d": {
+		"EsmCode": "A024921",
+		"Idc": "평촌",
+		"ServiceName": "CLOVA Data"
+	},
+	"mfa-body3d": {
+		"EsmCode": "A024921",
+		"Idc": "평촌",
+		"ServiceName": "CLOVA Data"
+	},
+	"mlflow-artifact": {
+		"EsmCode": "A024921",
+		"Idc": "평촌",
+		"ServiceName": "CLOVA Data"
+	},
+	"downstream-tools": {
+		"EsmCode": "A024921",
+		"Idc": "평촌",
+		"ServiceName": "CLOVA Data"
+	},
+	"downstream-tools-dev": {
+		"EsmCode": "A024921",
+		"Idc": "평촌",
+		"ServiceName": "CLOVA Data"
+	},
+	"clue-user-targeting": {
+		"EsmCode": "A024921",
+		"Idc": "평촌",
+		"ServiceName": "CLOVA Data"
+	},
+	"clue-user-targeting-dev": {
+		"EsmCode": "A024921",
+		"Idc": "평촌",
+		"ServiceName": "CLOVA Data"
+	},
+	"imagevision-data": {
+		"EsmCode": "A024921",
+		"Idc": "평촌",
+		"ServiceName": "CLOVA Data"
+	},
+	"vl-data": {
+		"EsmCode": "A024921",
+		"Idc": "평촌",
+		"ServiceName": "CLOVA Data"
+	},
+	"apollo-fe-sentry": {
+		"EsmCode": "A017099",
+		"Idc": "평촌",
+		"ServiceName": "Apollo 개발공통"
+	},
+	"gncp_jp_public": {
+		"EsmCode": "S0250",
+		"Idc": "도쿄",
+		"ServiceName": "포토인프라"
+	},
+	"clova-studio": {
+		"EsmCode": "A024921",
+		"Idc": "평촌",
+		"ServiceName": "CLOVA Data"
+	},
+	"gen-chatbot": {
+		"EsmCode": "A024921",
+		"Idc": "평촌",
+		"ServiceName": "CLOVA Data"
+	},
+	"ctrans-old": {
+		"EsmCode": "A010087",
+		"Idc": "춘천",
+		"ServiceName": "참여번역"
+	},
+	"voice-log": {
+		"EsmCode": "A012558",
+		"Idc": "평촌",
+		"ServiceName": "papago"
+	},
+	"mlops-billing": {
+		"EsmCode": "A027483",
+		"Idc": "평촌",
+		"ServiceName": "CLOVA MLOps"
+	},
+	"abatmgtBucket": {
+		"EsmCode": "A012738",
+		"Idc": "평촌",
+		"ServiceName": "네이버 보안"
+	},
+	"booking-web-logs": {
+		"EsmCode": "A011108",
+		"Idc": "평촌",
+		"ServiceName": "[플랫폼]네이버예약"
+	},
+	"ai-assistant-sems": {
+		"EsmCode": "A024921",
+		"Idc": "평촌",
+		"ServiceName": "CLOVA Data"
+	},
+	"mlresearch": {
+		"EsmCode": "A024921",
+		"Idc": "평촌",
+		"ServiceName": "CLOVA Data"
+	},
+	"backbone-data": {
+		"EsmCode": "A024921",
+		"Idc": "평촌",
+		"ServiceName": "CLOVA Data"
+	},
+	"video-data": {
+		"EsmCode": "A024921",
+		"Idc": "평촌",
+		"ServiceName": "CLOVA Data"
+	},
+	"clops-pipeline-test": {
+		"EsmCode": "A024921",
+		"Idc": "평촌",
+		"ServiceName": "CLOVA Data"
+	},
+	"vna-nlp": {
+		"EsmCode": "A024921",
+		"Idc": "평촌",
+		"ServiceName": "CLOVA Data"
+	},
+	"ncrashlytics-stg": {
+		"EsmCode": "S0122",
+		"Idc": "평촌",
+		"ServiceName": "NELO"
+	},
+	"smart-id": {
+		"EsmCode": "S0643",
+		"Idc": "평촌",
+		"ServiceName": "회원플랫폼"
+	},
+	"nv-databox-export-screening": {
+		"EsmCode": "A022871",
+		"Idc": "평촌",
+		"ServiceName": "데이터 박스 (네이버)"
+	},
+	"hydra_dev": {
+		"EsmCode": "S0189",
+		"Idc": "판교",
+		"ServiceName": "ClickQuality"
+	},
+	"storep-coin-series-stats": {
+		"EsmCode": "A012534",
+		"Idc": "평촌",
+		"ServiceName": "스토어플랫폼"
+	},
+	"toothless-ideplugin": {
+		"EsmCode": "A025300",
+		"Idc": "평촌",
+		"ServiceName": "투스리스"
+	},
+	"RealEstate-VC": {
+		"EsmCode": "S0054",
+		"Idc": "춘천",
+		"ServiceName": "부동산(REL)"
+	},
+	"aisuite-data": {
+		"EsmCode": "A013970",
+		"Idc": "춘천",
+		"ServiceName": "NAVER LABS공통"
+	},
+	"ncc-airflow-dag": {
+		"EsmCode": "00083",
+		"Idc": "판교",
+		"ServiceName": "[검색]클릭초이스"
+	},
+	"edp-coldstorage-live": {
+		"EsmCode": "A028362",
+		"Idc": "평촌",
+		"ServiceName": "이테크데이터"
+	},
+	"nexearch_cc": {
+		"EsmCode": "00078",
+		"Idc": "춘천",
+		"ServiceName": "통합검색"
+	},
+	"nexearch_pc": {
+		"EsmCode": "00078",
+		"Idc": "평촌",
+		"ServiceName": "통합검색"
+	},
+	"jelly-real": {
+		"EsmCode": "A028530",
+		"Idc": "평촌",
+		"ServiceName": "jelly"
+	},
+	"wpt-recommend": {
+		"EsmCode": "A028582",
+		"Idc": "평촌",
+		"ServiceName": "웹툰_AI_추천_서비스"
+	},
+	"wpt-recommend-staging": {
+		"EsmCode": "A028582",
+		"Idc": "평촌",
+		"ServiceName": "웹툰_AI_추천_서비스"
+	},
+	"qubrain": {
+		"EsmCode": "00078",
+		"Idc": "판교",
+		"ServiceName": "통합검색"
+	},
+	"nfront-ar2-public": {
+		"EsmCode": "A014102",
+		"Idc": "평촌",
+		"ServiceName": "nfront"
+	},
+	"prism-server-log": {
+		"EsmCode": "00982",
+		"Idc": "평촌",
+		"ServiceName": "PRISM"
+	},
+	"real-stock-web-cdn-origin-static": {
+		"EsmCode": "A024522",
+		"Idc": "판교",
+		"ServiceName": "파이낸셜Front"
+	},
+	"p-paas-pasta": {
+		"EsmCode": "A012453",
+		"Idc": "판교",
+		"ServiceName": "PAAS"
+	},
+	"a-paas-pasta": {
+		"EsmCode": "A012453",
+		"Idc": "평촌",
+		"ServiceName": "PAAS"
+	},
+	"ncrashlytics-naver-jp-prd": {
+		"EsmCode": "S0122",
+		"Idc": "도쿄",
+		"ServiceName": "NELO"
+	},
+	"dc-object-detector-real": {
+		"EsmCode": "A028184",
+		"Idc": "평촌",
+		"ServiceName": "DC Object Detector"
+	},
+	"robotvision-aisuite": {
+		"EsmCode": "A024462",
+		"Idc": "춘천",
+		"ServiceName": "AI for Robotics"
+	},
+	"nelo-airflow": {
+		"EsmCode": "S0122",
+		"Idc": "평촌",
+		"ServiceName": "NELO"
+	},
+	"monitor-sentry-prod": {
+		"EsmCode": "A019238",
+		"Idc": "춘천",
+		"ServiceName": "검색시스템 장애관제"
+	},
+	"im_bucket": {
+		"EsmCode": "KRES0058",
+		"Idc": "춘천",
+		"ServiceName": "IM"
+	},
+	"im_bucket_target": {
+		"EsmCode": "KRES0058",
+		"Idc": "평촌",
+		"ServiceName": "IM"
+	},
+	"xbu-production-import": {
+		"EsmCode": "N5009",
+		"Idc": "춘천",
+		"ServiceName": "스마트플레이스"
+	},
+	"xbu-stage-import": {
+		"EsmCode": "N5009",
+		"Idc": "춘천",
+		"ServiceName": "스마트플레이스"
+	},
+	"xbu-ingress-production": {
+		"EsmCode": "N5009",
+		"Idc": "춘천",
+		"ServiceName": "스마트플레이스"
+	},
+	"nfront-ar2pub": {
+		"EsmCode": "A014102",
+		"Idc": "평촌",
+		"ServiceName": "nfront"
+	},
+	"nfront-ar2pri": {
+		"EsmCode": "A014102",
+		"Idc": "평촌",
+		"ServiceName": "nfront"
+	},
+	"nfront-jr1pub": {
+		"EsmCode": "A014102",
+		"Idc": "도쿄",
+		"ServiceName": "nfront"
+	},
+	"nfront-jr1pri": {
+		"EsmCode": "A014102",
+		"Idc": "도쿄",
+		"ServiceName": "nfront"
+	},
+	"nfront-sr1pub": {
+		"EsmCode": "A014102",
+		"Idc": "싱가폴",
+		"ServiceName": "nfront"
+	},
+	"nfront-sr1pri": {
+		"EsmCode": "A014102",
+		"Idc": "싱가폴",
+		"ServiceName": "nfront"
+	},
+	"nfront-fr1pub": {
+		"EsmCode": "A014102",
+		"Idc": "프랑크푸르트",
+		"ServiceName": "nfront"
+	},
+	"nfront-fr1pri": {
+		"EsmCode": "A014102",
+		"Idc": "프랑크푸르트",
+		"ServiceName": "nfront"
+	},
+	"wing": {
+		"EsmCode": "A019461",
+		"Idc": "평촌",
+		"ServiceName": "[운영] 광고지표추출시스템(WING)"
+	},
+	"smartstore-proxy-p": {
+		"EsmCode": "A009356",
+		"Idc": "판교",
+		"ServiceName": "스마트스토어"
+	},
+	"smartstore-proxy-c": {
+		"EsmCode": "A009356",
+		"Idc": "춘천",
+		"ServiceName": "스마트스토어"
+	},
+	"dataops": {
+		"EsmCode": "A028089",
+		"Idc": "판교",
+		"ServiceName": "웹툰 DATAOPS"
+	},
+	"nfront-wr1pub": {
+		"EsmCode": "A014102",
+		"Idc": "미서부",
+		"ServiceName": "nfront"
+	},
+	"nfront-wr1pri": {
+		"EsmCode": "A014102",
+		"Idc": "미서부",
+		"ServiceName": "nfront"
+	},
+	"nfront-ur1pub": {
+		"EsmCode": "A014102",
+		"Idc": "미동부",
+		"ServiceName": "nfront"
+	},
+	"nfront-ur1pri": {
+		"EsmCode": "A014102",
+		"Idc": "미동부",
+		"ServiceName": "nfront"
+	},
+	"labs-mlops-dev": {
+		"EsmCode": "A013970",
+		"Idc": "춘천",
+		"ServiceName": "NAVER LABS공통"
+	},
+	"nubesModelRepo": {
+		"EsmCode": "A016550",
+		"Idc": "춘천",
+		"ServiceName": "AiTEMS"
+	},
+	"nbtms": {
+		"EsmCode": "A026926",
+		"Idc": "평촌",
+		"ServiceName": "출장여행"
+	},
+	"mi_static": {
+		"EsmCode": "A026042",
+		"Idc": "춘천",
+		"ServiceName": "저작권시스템"
+	},
+	"nphish": {
+		"EsmCode": "A012738",
+		"Idc": "춘천",
+		"ServiceName": "네이버 보안"
+	},
+	"wallapop-airflow-dag": {
+		"EsmCode": "A028919",
+		"Idc": "춘천",
+		"ServiceName": "글로벌 C2C"
+	},
+	"ko-zclub-video": {
+		"EsmCode": "A014996",
+		"Idc": "평촌",
+		"ServiceName": "zepeto"
+	},
+	"mlops-slurm-jobs": {
+		"EsmCode": "A028809",
+		"Idc": "평촌",
+		"ServiceName": "B_R&D AI Model"
+	},
+	"aisuite": {
+		"EsmCode": "A025670",
+		"Idc": "춘천",
+		"ServiceName": "AiSuite"
+	},
+	"spark-streaming_dev_active_pr1": {
+		"EsmCode": "A021260",
+		"Idc": "판교",
+		"ServiceName": "PDP"
+	},
+	"spark-streaming_prod_active_pr1": {
+		"EsmCode": "A021260",
+		"Idc": "판교",
+		"ServiceName": "PDP"
+	},
+	"spark-streaming_dev_standby_ar1": {
+		"EsmCode": "A021260",
+		"Idc": "평촌",
+		"ServiceName": "PDP"
+	},
+	"scholytics-cloud": {
+		"EsmCode": "A019702",
+		"Idc": "춘천",
+		"ServiceName": "scholytics"
+	},
+	"nsa-front-sentry-bucket": {
+		"EsmCode": "00083",
+		"Idc": "평촌",
+		"ServiceName": "[검색]클릭초이스"
+	},
+	"glossary_wp_kr": {
+		"EsmCode": "A011301",
+		"Idc": "춘천",
+		"ServiceName": "웍스 소개_KR"
+	},
+	"cspdata_cr": {
+		"EsmCode": "00085",
+		"Idc": "춘천",
+		"ServiceName": "shopping-search"
+	},
+	"spark-streaming_prod_standby_ar1": {
+		"EsmCode": "A021260",
+		"Idc": "평촌",
+		"ServiceName": "PDP"
+	},
+	"LIVE_CLOUD_NMSS_JP": {
+		"EsmCode": "A014379",
+		"Idc": "도쿄",
+		"ServiceName": "lip"
+	},
+	"papago-mte-c": {
+		"EsmCode": "A012558",
+		"Idc": "춘천",
+		"ServiceName": "papago"
+	},
+	"papago-mnlp-c": {
+		"EsmCode": "A012558",
+		"Idc": "춘천",
+		"ServiceName": "papago"
+	},
+	"papago-mte-a": {
+		"EsmCode": "A012558",
+		"Idc": "평촌",
+		"ServiceName": "papago"
+	},
+	"papago-mnlp-a": {
+		"EsmCode": "A012558",
+		"Idc": "평촌",
+		"ServiceName": "papago"
+	},
+	"clova-video-datasets": {
+		"EsmCode": "A028810",
+		"Idc": "판교",
+		"ServiceName": "B_NAVER Cloud AI Model"
+	},
+	"nbtms-sentry": {
+		"EsmCode": "A026926",
+		"Idc": "춘천",
+		"ServiceName": "출장여행"
+	},
+	"st-data": {
+		"EsmCode": "A012558",
+		"Idc": "춘천",
+		"ServiceName": "papago"
+	},
+	"itqa": {
+		"EsmCode": "A012558",
+		"Idc": "춘천",
+		"ServiceName": "papago"
+	},
+	"addata-dev": {
+		"EsmCode": "00083",
+		"Idc": "춘천",
+		"ServiceName": "[검색]클릭초이스"
+	},
+	"gncp-terra-kr": {
+		"EsmCode": "A028768",
+		"Idc": "춘천",
+		"ServiceName": "[상품] 커머스ID"
+	},
+	"gncp-terra-infras-kr": {
+		"EsmCode": "A028768",
+		"Idc": "춘천",
+		"ServiceName": "[상품] 커머스ID"
+	},
+	"navertv_privacy": {
+		"EsmCode": "N5532",
+		"Idc": "춘천",
+		"ServiceName": "네이버TV"
+	},
+	"nfront-cr2pub": {
+		"EsmCode": "A014102",
+		"Idc": "춘천",
+		"ServiceName": "nfront"
+	},
+	"nfront-cr2pri": {
+		"EsmCode": "A014102",
+		"Idc": "춘천",
+		"ServiceName": "nfront"
+	},
+	"nfront-cr2emg": {
+		"EsmCode": "A014102",
+		"Idc": "춘천",
+		"ServiceName": "nfront"
+	},
+	"nfront-pr1pub": {
+		"EsmCode": "A014102",
+		"Idc": "판교",
+		"ServiceName": "nfront"
+	},
+	"nfront-pr1pri": {
+		"EsmCode": "A014102",
+		"Idc": "판교",
+		"ServiceName": "nfront"
+	},
+	"basedata": {
+		"EsmCode": "00078",
+		"Idc": "춘천",
+		"ServiceName": "통합검색"
+	},
+	"qrcode-web-v2": {
+		"EsmCode": "N5330",
+		"Idc": "춘천",
+		"ServiceName": "네이버QR코드"
+	},
+	"naver_text_segmenter_c": {
+		"EsmCode": "A012558",
+		"Idc": "춘천",
+		"ServiceName": "papago"
+	},
+	"naver_text_segmenter_a": {
+		"EsmCode": "A012558",
+		"Idc": "평촌",
+		"ServiceName": "papago"
+	},
+	"scol-jp": {
+		"EsmCode": "A009356",
+		"Idc": "도쿄",
+		"ServiceName": "스마트스토어"
+	},
+	"wstat-airflow-log-nch": {
+		"EsmCode": "A024605",
+		"Idc": "춘천",
+		"ServiceName": "웹툰 WSTAT"
+	},
+	"wstat-airflow-log-nch-stage": {
+		"EsmCode": "A024605",
+		"Idc": "춘천",
+		"ServiceName": "웹툰 WSTAT"
+	},
+	"gncp-chaosrabbit": {
+		"EsmCode": "A009356",
+		"Idc": "평촌",
+		"ServiceName": "스마트스토어"
+	},
+	"da-rpt": {
+		"EsmCode": "00084",
+		"Idc": "평촌",
+		"ServiceName": "[DA]광고지원"
+	},
+	"cdcm_pc": {
+		"EsmCode": "00078",
+		"Idc": "평촌",
+		"ServiceName": "통합검색"
+	},
+	"cdcm_cc": {
+		"EsmCode": "00078",
+		"Idc": "춘천",
+		"ServiceName": "통합검색"
+	},
+	"weather_pangyo": {
+		"EsmCode": "N1200",
+		"Idc": "판교",
+		"ServiceName": "날씨"
+	},
+	"dev-nowdata": {
+		"EsmCode": "A019102",
+		"Idc": "춘천",
+		"ServiceName": "네이버 NOW"
+	},
+	"polyline": {
+		"EsmCode": "00080",
+		"Idc": "춘천",
+		"ServiceName": "지도"
+	},
+	"band-chat-history-download": {
+		"EsmCode": "N5585",
+		"Idc": "평촌",
+		"ServiceName": "band"
+	},
+	"nvshp-airflow-dag": {
+		"EsmCode": "N1085",
+		"Idc": "춘천",
+		"ServiceName": "[세부] 쇼핑검색"
+	},
+	"vertical-travel": {
+		"EsmCode": "A022247",
+		"Idc": "춘천",
+		"ServiceName": "해외여행검색"
+	},
+	"c-clova-md-fashiontown-prod-rec": {
+		"EsmCode": "A026942",
+		"Idc": "춘천",
+		"ServiceName": "클로바 MD"
+	},
+	"artis": {
+		"EsmCode": "A011097",
+		"Idc": "판교",
+		"ServiceName": "스노우"
+	},
+	"zepeto-zearch": {
+		"EsmCode": "A014996",
+		"Idc": "판교",
+		"ServiceName": "zepeto"
+	},
+	"bh-nubes": {
+		"EsmCode": "A025263",
+		"Idc": "춘천",
+		"ServiceName": "[상품] 네이버케어"
+	},
+	"gaia-travel": {
+		"EsmCode": "A029145",
+		"Idc": "춘천",
+		"ServiceName": "가이아"
+	},
+	"pg-ai-assistant-sems": {
+		"EsmCode": "A024921",
+		"Idc": "판교",
+		"ServiceName": "CLOVA Data"
+	},
+	"pg-backbone-data": {
+		"EsmCode": "A024921",
+		"Idc": "판교",
+		"ServiceName": "CLOVA Data"
+	},
+	"pg-clops-k8s-backup-beta": {
+		"EsmCode": "A024921",
+		"Idc": "판교",
+		"ServiceName": "CLOVA Data"
+	},
+	"pg-clops-k8s-backup-dev": {
+		"EsmCode": "A024921",
+		"Idc": "판교",
+		"ServiceName": "CLOVA Data"
+	},
+	"pg-clops-k8s-backup-prod": {
+		"EsmCode": "A024921",
+		"Idc": "판교",
+		"ServiceName": "CLOVA Data"
+	},
+	"pg-clops-pipeline-test": {
+		"EsmCode": "A024921",
+		"Idc": "판교",
+		"ServiceName": "CLOVA Data"
+	},
+	"pg-clova-studio": {
+		"EsmCode": "A024921",
+		"Idc": "판교",
+		"ServiceName": "CLOVA Data"
+	},
+	"pg-clovadata": {
+		"EsmCode": "A024921",
+		"Idc": "판교",
+		"ServiceName": "CLOVA Data"
+	},
+	"pg-clue-user-targeting": {
+		"EsmCode": "A024921",
+		"Idc": "판교",
+		"ServiceName": "CLOVA Data"
+	},
+	"pg-clue-user-targeting-dev": {
+		"EsmCode": "A024921",
+		"Idc": "판교",
+		"ServiceName": "CLOVA Data"
+	},
+	"pg-conv-recsys": {
+		"EsmCode": "A024921",
+		"Idc": "판교",
+		"ServiceName": "CLOVA Data"
+	},
+	"pg-dev-clops-model-registry": {
+		"EsmCode": "A024921",
+		"Idc": "판교",
+		"ServiceName": "CLOVA Data"
+	},
+	"pg-dongyoung-go": {
+		"EsmCode": "A024921",
+		"Idc": "판교",
+		"ServiceName": "CLOVA Data"
+	},
+	"pg-downstream-tools": {
+		"EsmCode": "A024921",
+		"Idc": "판교",
+		"ServiceName": "CLOVA Data"
+	},
+	"pg-downstream-tools-dev": {
+		"EsmCode": "A024921",
+		"Idc": "판교",
+		"ServiceName": "CLOVA Data"
+	},
+	"pg-gen-chatbot": {
+		"EsmCode": "A024921",
+		"Idc": "판교",
+		"ServiceName": "CLOVA Data"
+	},
+	"pg-hai-mlflow": {
+		"EsmCode": "A024921",
+		"Idc": "판교",
+		"ServiceName": "CLOVA Data"
+	},
+	"pg-hyperclova-x-alpha": {
+		"EsmCode": "A024921",
+		"Idc": "판교",
+		"ServiceName": "CLOVA Data"
+	},
+	"pg-imagevision-data": {
+		"EsmCode": "A024921",
+		"Idc": "판교",
+		"ServiceName": "CLOVA Data"
+	},
+	"pg-mfa-body3d": {
+		"EsmCode": "A024921",
+		"Idc": "판교",
+		"ServiceName": "CLOVA Data"
+	},
+	"pg-mfa-face3d": {
+		"EsmCode": "A024921",
+		"Idc": "판교",
+		"ServiceName": "CLOVA Data"
+	},
+	"pg-mlflow-artifact": {
+		"EsmCode": "A024921",
+		"Idc": "판교",
+		"ServiceName": "CLOVA Data"
+	},
+	"pg-mlresearch": {
+		"EsmCode": "A024921",
+		"Idc": "판교",
+		"ServiceName": "CLOVA Data"
+	},
+	"pg-ocrix": {
+		"EsmCode": "A024921",
+		"Idc": "판교",
+		"ServiceName": "CLOVA Data"
+	},
+	"pg-video-data": {
+		"EsmCode": "A024921",
+		"Idc": "판교",
+		"ServiceName": "CLOVA Data"
+	},
+	"pg-vision-original": {
+		"EsmCode": "A024921",
+		"Idc": "판교",
+		"ServiceName": "CLOVA Data"
+	},
+	"pg-vision-original-dev": {
+		"EsmCode": "A024921",
+		"Idc": "판교",
+		"ServiceName": "CLOVA Data"
+	},
+	"pg-vl-data": {
+		"EsmCode": "A024921",
+		"Idc": "판교",
+		"ServiceName": "CLOVA Data"
+	},
+	"pg-vl-token-data": {
+		"EsmCode": "A024921",
+		"Idc": "판교",
+		"ServiceName": "CLOVA Data"
+	},
+	"pg-vna-nlp": {
+		"EsmCode": "A024921",
+		"Idc": "판교",
+		"ServiceName": "CLOVA Data"
+	},
+	"conv-recsys": {
+		"EsmCode": "A024921",
+		"Idc": "평촌",
+		"ServiceName": "CLOVA Data"
+	},
+	"hai-mlflow": {
+		"EsmCode": "A024921",
+		"Idc": "평촌",
+		"ServiceName": "CLOVA Data"
+	},
+	"hcxvision": {
+		"EsmCode": "A024921",
+		"Idc": "평촌",
+		"ServiceName": "CLOVA Data"
+	},
+	"hyperclova-x-alpha": {
+		"EsmCode": "A024921",
+		"Idc": "평촌",
+		"ServiceName": "CLOVA Data"
+	},
+	"mfa-det-person": {
+		"EsmCode": "A024921",
+		"Idc": "평촌",
+		"ServiceName": "CLOVA Data"
+	},
+	"mfa-det-pose": {
+		"EsmCode": "A024921",
+		"Idc": "평촌",
+		"ServiceName": "CLOVA Data"
+	},
+	"spark3-test": {
+		"EsmCode": "A024921",
+		"Idc": "평촌",
+		"ServiceName": "CLOVA Data"
+	},
+	"ul-nevu-ckpt": {
+		"EsmCode": "A024921",
+		"Idc": "평촌",
+		"ServiceName": "CLOVA Data"
+	},
+	"vl-token-data": {
+		"EsmCode": "A024921",
+		"Idc": "평촌",
+		"ServiceName": "CLOVA Data"
+	},
+	"ncp-oasis": {
+		"EsmCode": "N5351",
+		"Idc": "춘천",
+		"ServiceName": "쇼핑서비스"
+	},
+	"autofin": {
+		"EsmCode": "A029087",
+		"Idc": "춘천",
+		"ServiceName": "자동차금융광고"
+	},
+	"entry-sentry-nubes": {
+		"EsmCode": "A026924",
+		"Idc": "춘천",
+		"ServiceName": "[세부] 엔트리월드"
+	},
+	"blog-rcmd": {
+		"EsmCode": "N1105",
+		"Idc": "판교",
+		"ServiceName": "블로그"
+	},
+	"shopper-my-static-pr1": {
+		"EsmCode": "A012325",
+		"Idc": "판교",
+		"ServiceName": "[상품] 쇼핑마이"
+	},
+	"nsw-sentry": {
+		"EsmCode": "A012322",
+		"Idc": "춘천",
+		"ServiceName": "쇼핑윈도"
+	},
+	"gcs-api": {
+		"EsmCode": "A027543",
+		"Idc": "판교",
+		"ServiceName": "글로벌 커뮤니티 솔루션"
+	},
+	"hangeul": {
+		"EsmCode": "N5268",
+		"Idc": "평촌",
+		"ServiceName": "한글한글아름답게"
+	},
+	"wpsan-str": {
+		"EsmCode": "A024920",
+		"Idc": "춘천",
+		"ServiceName": "WEBTOON IT GRC"
+	},
+	"zepeto-zetta-sentry": {
+		"EsmCode": "A014996",
+		"Idc": "춘천",
+		"ServiceName": "zepeto"
+	},
+	"commerce-ai": {
+		"EsmCode": "00085",
+		"Idc": "판교",
+		"ServiceName": "shopping-search"
+	},
+	"whale-sentry": {
+		"EsmCode": "A013246",
+		"Idc": "춘천",
+		"ServiceName": "whale"
+	},
+	"AEGIS_TEMP": {
+		"EsmCode": "S0245",
+		"Idc": "춘천",
+		"ServiceName": "동영상인프라"
+	},
+	"panorama-poi": {
+		"EsmCode": "00080",
+		"Idc": "춘천",
+		"ServiceName": "지도"
+	},
+	"commerce-ai-c": {
+		"EsmCode": "00085",
+		"Idc": "춘천",
+		"ServiceName": "shopping-search"
+	},
+	"gmc-api": {
+		"EsmCode": "00084",
+		"Idc": "평촌",
+		"ServiceName": "[DA]광고지원"
+	},
+	"whalebook_wp_kr": {
+		"EsmCode": "A013246",
+		"Idc": "춘천",
+		"ServiceName": "whale"
+	},
+	"whale_help_wp_kr": {
+		"EsmCode": "A013246",
+		"Idc": "춘천",
+		"ServiceName": "whale"
+	},
+	"sqlgateway-server": {
+		"EsmCode": "04907",
+		"Idc": "춘천",
+		"ServiceName": "SQL GW"
+	},
+	"zepeto-data-platform-backups": {
+		"EsmCode": "A014996",
+		"Idc": "춘천",
+		"ServiceName": "zepeto"
+	},
+	"c-clova-md-nda-prod-rec": {
+		"EsmCode": "A026942",
+		"Idc": "춘천",
+		"ServiceName": "클로바 MD"
+	},
+	"labs-mlops": {
+		"EsmCode": "A013970",
+		"Idc": "춘천",
+		"ServiceName": "NAVER LABS공통"
+	},
+	"naver-contact": {
+		"EsmCode": "N3905",
+		"Idc": "춘천",
+		"ServiceName": "주소록"
+	},
+	"c-clova-md-cluster-based-rec": {
+		"EsmCode": "A026942",
+		"Idc": "춘천",
+		"ServiceName": "클로바 MD"
+	},
+	"blog-files": {
+		"EsmCode": "N1105",
+		"Idc": "춘천",
+		"ServiceName": "블로그"
+	},
+	"g-sentry": {
+		"EsmCode": "A021980",
+		"Idc": "춘천",
+		"ServiceName": "클로바노트"
+	},
+	"pa-dmp-de": {
+		"EsmCode": "A019225",
+		"Idc": "평촌",
+		"ServiceName": "GFA"
+	},
+	"ni_blue_backup": {
+		"EsmCode": "A012454",
+		"Idc": "판교",
+		"ServiceName": "네이버인사이트"
+	},
+	"wds-trend-stage": {
+		"EsmCode": "A020105",
+		"Idc": "판교",
+		"ServiceName": "웹툰_리서치"
+	},
+	"wds-trend": {
+		"EsmCode": "A020105",
+		"Idc": "판교",
+		"ServiceName": "웹툰_리서치"
+	},
+	"nowdata": {
+		"EsmCode": "A019102",
+		"Idc": "평촌",
+		"ServiceName": "네이버 NOW"
+	},
+	"ncoder-test": {
+		"EsmCode": "A018000",
+		"Idc": "판교",
+		"ServiceName": "동영상플랫폼"
+	},
+	"naver-uni": {
+		"EsmCode": "A029062",
+		"Idc": "평촌",
+		"ServiceName": "[운영] 사내교육시스템"
+	},
+	"sentry-ba": {
+		"EsmCode": "A014712",
+		"Idc": "춘천",
+		"ServiceName": "Biz Advisor"
+	},
+	"ncc-airflow-dag-2": {
+		"EsmCode": "00083",
+		"Idc": "춘천",
+		"ServiceName": "[검색]클릭초이스"
+	},
+	"articleCdnDev": {
+		"EsmCode": "A026565",
+		"Idc": "춘천",
+		"ServiceName": "[상품] 아티클 웹"
+	},
+	"community-kw": {
+		"EsmCode": "A025784",
+		"Idc": "춘천",
+		"ServiceName": "웹툰 커뮤니티 플랫폼"
+	},
+	"munpia-distributor": {
+		"EsmCode": "A026705",
+		"Idc": "춘천",
+		"ServiceName": "문피아웹소설"
+	},
+	"Teamboard_KR": {
+		"EsmCode": "A029643",
+		"Idc": "춘천",
+		"ServiceName": "[상품] 팀보드"
+	},
+	"vitess-delivery": {
+		"EsmCode": "A013970",
+		"Idc": "춘천",
+		"ServiceName": "NAVER LABS공통"
+	},
+	"cctv-search": {
+		"EsmCode": "00080",
+		"Idc": "평촌",
+		"ServiceName": "지도"
+	},
+	"weverse-onboard": {
+		"EsmCode": "A025080",
+		"Idc": "춘천",
+		"ServiceName": "위버스"
+	},
+	"cdp-common": {
+		"EsmCode": "A029542",
+		"Idc": "춘천",
+		"ServiceName": "[상품] 커머스데이터"
+	},
+	"mkt-secret": {
+		"EsmCode": "02315",
+		"Idc": "춘천",
+		"ServiceName": "네이버프로모션관리"
+	},
+	"munpia-cdn-origin-front": {
+		"EsmCode": "A026705",
+		"Idc": "춘천",
+		"ServiceName": "문피아웹소설"
+	},
+	"vdc-engineering-blog": {
+		"EsmCode": "A028402",
+		"Idc": "평촌",
+		"ServiceName": "Dev Center Operation"
+	},
+	"ngine-kr": {
+		"EsmCode": "S0359",
+		"Idc": "평촌",
+		"ServiceName": "Ngine"
+	},
+	"uni-sentry-nubes": {
+		"EsmCode": "A029062",
+		"Idc": "판교",
+		"ServiceName": "[운영] 사내교육시스템"
+	}
+}
